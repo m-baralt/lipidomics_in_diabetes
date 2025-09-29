@@ -9,7 +9,7 @@ doParallel::registerDoParallel(6)
 
 dir.create("Results")
 
-dir_path <- "/home/maria/paper_placa/"
+dir_path <- ""
 
 ####### Lipidomics data preparation #######
 
