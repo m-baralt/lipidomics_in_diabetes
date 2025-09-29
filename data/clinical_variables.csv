@@ -1,0 +1,516 @@
+"","Sex","AGE","Hypertension","Dyslipidemia","DM","BMI","Waist","Plaque","DM_duration","HbA1c","Glucose","Origen","Smoking","systolic_BP","diastolic_BP","Triglycerides","HDL_cholesterol","LDL_cholesterol","aMED","Insulin","Metformin","MDRD_4_IDMS","Total_number_plaques","Antiplatelet","Total_cholesterol","GPT_ALT"
+"OY315","Women",74,"Yes","Yes","T2D",27.5,92,"Plaque",5,6.2,128,"Lleida","No Smoker",141,69,59,70,83.2,7,"No","No",89.1,2,"No",165,14
+"OY417","Women",71,"No","Yes","T2D",18.8,68,"Plaque",10,5.9,97,"Lleida","Former/Current Smoker",146,94,81,116,79.8,NA,"No","No",83.87,3,"No",215,39
+"OY075","Men",59,"Yes","No","T1D",23.2,89,"Plaque",36,6.8,68,"Lleida","No Smoker",133,64,36,91,73,5,"Yes","No",80.17,2,"Yes",171,13
+"OY154","Women",48,"Yes","Yes","T1D",22.7,68,"Plaque",27,6.9,157,"Lleida","Former/Current Smoker",120,60,59,80,100,7,"Yes","No",82.48,2,"No",192,42
+"OY457","Men",50,"Yes","Yes","T1D",30.8,107,"Plaque",12,7.4,127,"Lleida","Former/Current Smoker",126,77,41,39,77,3,"Yes","No",81.92,3,"No",124,15
+"OY386","Women",51,"Yes","Yes","T1D",23.3,81,"Plaque",42,7.8,75,"Lleida","No Smoker",145,65,45,87,114,1,"Yes","No",66.87,2,"Yes",210,10
+"OY536","Women",51,"No","Yes","T1D",21.9,90,"Plaque",9,6.9,42,"Lleida","Former/Current Smoker",137,76,71,85,103,5,"Yes","No",96.1,2,"No",202,15
+"OY173","Women",57,"Yes","Yes","T1D",25.6,91,"Plaque",23,8.7,184,"Lleida","No Smoker",151,80,55,55,123,6,"Yes","No",101.09,2,"Yes",189,22
+"OY060","Men",56,"Yes","Yes","T1D",27.7,106,"Plaque",15,6.6,141,"Lleida","Former/Current Smoker",133,78,50,57,91,NA,"Yes","No",74.7,1,"No",158,35
+"OY425","Women",56,"No","Yes","T1D",24.1,80,"Plaque",29,7.8,78,"Lleida","Former/Current Smoker",98,66,55,70,104,4,"Yes","No",88.01,2,"Yes",185,17
+"OY049","Men",52,"No","No","T1D",27.2,94,"Plaque",11,7.2,86,"Lleida","Former/Current Smoker",119,73,54,70,145,4,"Yes","No",98.66,1,"Yes",226,41
+"OY420","Women",48,"No","Yes","T1D",22.6,67,"Plaque",24,8.2,283,"CRuti","Former/Current Smoker",138,80,41,74,82,4,"Yes","No",125.86,2,"Yes",164,23
+"OY340","Women",52,"Yes","Yes","T1D",24.69,87,"Plaque",36,7.6,86,"Lleida","No Smoker",134,70,65,51,87,NA,"Yes","No",111.5,3,"Yes",151,21
+"OY134","Men",45,"Yes","Yes","T1D",29.61,103,"Plaque",30,7.2,183,"CRuti","No Smoker",133,88,64,57,98,4,"Yes","No",84.7,1,"Yes",168,25
+"OY170","Men",69,"No","No","T2D",25.4,95,"Plaque",32,6.6,135,"Lleida","Former/Current Smoker",143,90,57,63,116.6,4,"Yes","Yes",67.08,3,"Yes",191,21
+"OY361","Women",53,"Yes","Yes","T1D",22.39,77,"Plaque",33,7.8,142,"Lleida","Former/Current Smoker",124,72.3,65,62,80,NA,"Yes","No",NA,3,"No",155,23
+"OY183","Men",48,"No","Yes","T1D",31.2,106,"Plaque",17,7.4,134,"Lleida","Former/Current Smoker",142,74,57,79,84,5,"Yes","No",81.63,2,"Yes",174,16
+"OY146","Women",62,"Yes","No","T1D",27.7,90,"Plaque",10,9.5,422,"Lleida","No Smoker",145,80,54,86,63,2,"Yes","No",68.7,2,"Yes",160,14
+"OY372","Women",65,"No","No","T1D",23.5,79,"Plaque",35,7.9,159,"Lleida","No Smoker",132,68,57,93,101,3,"Yes","No",100.33,2,"No",205,17
+"OY097","Women",69,"No","Yes","T1D",24.3,78,"Plaque",32,8.1,77,"Lleida","No Smoker",129,56,56,113,95,4,"Yes","No",104.57,2,"Yes",220,9
+"OY465","Men",62,"No","Yes","T1D",24.4,89,"Plaque",23,6.8,224,"Lleida","Former/Current Smoker",130,71,70,68,79,NA,"Yes","No",85.5,1,"Yes",161,20
+"OY438","Women",56,"No","Yes","T1D",28.07,90,"Plaque",19,6.7,58,"CRuti","No Smoker",131,77,51,86,100,5,"Yes","No",82.47,1,"No",196,19
+"OY395","Men",46,"No","Yes","T1D",25.53,90,"Plaque",6,8.3,151,"Lleida","No Smoker",126,71.7,155,41,77,NA,"Yes","No",86.5,3,"No",149,31
+"OY502","Men",44,"Yes","Yes","T1D",38.2,120,"Plaque",38,7.2,106,"Lleida","No Smoker",154,69,59,58,90,1,"Yes","No",79.34,1,"Yes",160,23
+"OY258","Men",41,"No","No","T1D",22.1,80,"Plaque",5,7.5,145,"Lleida","Former/Current Smoker",112,68,58,56,115,NA,"Yes","No",88.44,2,"No",183,14
+"OY432","Men",45,"Yes","No","T1D",31.74,104,"Plaque",25,6,129,"CRuti","Former/Current Smoker",140,80,42,53,83,4,"Yes","No",132.84,2,"No",144,18
+"OY138","Women",57,"Yes","Yes","T1D",27.07,88,"Plaque",18,7.1,92,"Lleida","No Smoker",119,63.7,98,54,101.4,NA,"Yes","No",105.2,6,"Yes",175,23
+"OY353","Women",48,"No","No","T1D",37.77,110.5,"Plaque",30,7.4,160,"Lleida","Former/Current Smoker",135.7,88,102,59,103.6,NA,"Yes","No",86.6,2,"Yes",183,38
+"OY237","Men",47,"No","Yes","T2D",27.8,98,"Plaque",3,6.3,91,"Lleida","Former/Current Smoker",149,79,61,47,105.8,3,"No","No",92.83,2,"No",165,29
+"OY440","Men",66,"Yes","Yes","T1D",24,90,"Plaque",34,7.9,242,"Lleida","Former/Current Smoker",135,61,79,48,80,5,"Yes","No",114.72,4,"Yes",144,46
+"OY007","Men",56,"Yes","Yes","T1D",26.9,95,"Plaque",19,7.3,208,"CRuti","Former/Current Smoker",139,77,46,50,76,2,"Yes","No",106.1,3,"Yes",135,27
+"OY300","Women",66,"Yes","Yes","T1D",25.2,88,"Plaque",44,7.4,134,"Lleida","No Smoker",141,60,57,61,91,5,"Yes","No",92.84,2,"Yes",163,20
+"OY449","Women",49,"Yes","No","T1D",25.7,86,"Plaque",33,8.2,77,"Lleida","Former/Current Smoker",129,77,52,52,92,1,"Yes","No",122.61,1,"No",154,14
+"OY249","Men",72,"Yes","Yes","T2D",31.6,107,"Plaque",8,7.4,104,"Lleida","Former/Current Smoker",182,80,67,56,84.6,4,"Yes","No",65.8,2,"Yes",154,16
+"OY017","Men",48,"Yes","Yes","T1D",29.1,94,"Plaque",33,7.3,113,"Lleida","Former/Current Smoker",108,50,45,61,70,6,"Yes","No",78.84,2,"Yes",140,20
+"OY368","Women",44,"Yes","Yes","T1D",34.18,93,"Plaque",20,7.4,95,"CRuti","No Smoker",170,90,69,76,109,3,"Yes","No",95.62,1,"No",199,14
+"OY242","Women",45,"No","Yes","T1D",24.1,67,"Plaque",22,6.6,85,"Lleida","Former/Current Smoker",111,82,54,55,101,6,"Yes","No",93.57,1,"Yes",167,14
+"OY327","Men",51,"Yes","Yes","T1D",26.29,88,"Plaque",39,7.3,220,"CRuti","Former/Current Smoker",132,69,68,47,76,4,"Yes","No",85.66,2,"Yes",137,51
+"OY225","Men",50,"Yes","No","T1D",23.01,86,"Plaque",18,7.6,211,"CRuti","No Smoker",131,86,53,45,115,4,"Yes","No",125.56,1,"Yes",171,24
+"OY285","Women",60,"Yes","Yes","T1D",23.5,86,"Plaque",11,7,159,"Lleida","No Smoker",128,82,69,72,98,NA,"Yes","No",80.05,1,"No",184,37
+"OY352","Men",65,"Yes","No","T2D",33.1,109,"Plaque",7,8.7,173,"Lleida","Former/Current Smoker",132,81,63,55,96.4,5,"No","Yes",106.15,2,"No",164,19
+"OY466","Men",72,"Yes","Yes","T1D",25.6,63,"Plaque",32,7.6,234,"Lleida","Former/Current Smoker",145,70,73,64,94,NA,"Yes","No",70.99,6,"Yes",173,30
+"OY519","Men",45,"Yes","Yes","T2D",29,104,"Plaque",8,8.5,149,"Lleida","Former/Current Smoker",140,71,62,66,55.6,3,"No","Yes",83.7,3,"Yes",134,27
+"OY057","Men",54,"Yes","No","T2D",28.6,103,"Plaque",10,8.6,115,"Lleida","Former/Current Smoker",125,76,65,66,109,1,"No","Yes",102.21,3,"No",188,23
+"OY447","Women",54,"Yes","Yes","T2D",39.6,121,"Plaque",27,9.7,246,"Lleida","Former/Current Smoker",112,67,65,48,87,2,"Yes","Yes",102.21,4,"Yes",148,20
+"OY331","Women",42,"No","Yes","T1D",27.4,92,"Plaque",31,8.8,122,"CRuti","No Smoker",120,68,52,40,56,3,"Yes","No",99.96,1,"No",106,14
+"OY529","Men",50,"No","Yes","T1D",24.74,100,"Plaque",25,7.8,226,"CRuti","Former/Current Smoker",155,83,60,49,107,2,"Yes","No",102.32,1,"No",168,16
+"OY389","Women",71,"Yes","Yes","T1D",31.91,90,"Plaque",24,7.9,127,"CRuti","No Smoker",160,70,70,59,88,3,"Yes","No",85.29,2,"Yes",161,14
+"OY421","Men",47,"No","Yes","T1D",33.22,109,"Plaque",21,8.6,168,"CRuti","Former/Current Smoker",147,79,70,69,108,1,"Yes","No",99.31,2,"No",191,20
+"OY239","Men",50,"No","No","T1D",23.44,94,"Plaque",42,7,81,"Lleida","Former/Current Smoker",102.3,65.3,60,50,92,NA,"Yes","No",119.5,3,"No",154,21
+"OY114","Women",68,"Yes","Yes","T1D",25.02,NA,"Plaque",23,6.7,83,"CRuti","No Smoker",120,75,49,94,76,4,"Yes","No",76.85,1,"No",180,15
+"OY350","Men",50,"No","Yes","T1D",24.21,83,"Plaque",8,8.6,52,"Lleida","Former/Current Smoker",124.7,75,73,72,125.4,NA,"Yes","No",104,3,"No",212,36
+"OY221","Men",64,"Yes","Yes","T2D",35.6,NA,"Plaque",5,5.4,108,"Lleida","Former/Current Smoker",159,69,63,70,75.4,5,"No","Yes",78.86,4,"No",158,18
+"OY415","Men",69,"Yes","No","T1D",26.1,90,"Plaque",50,6.7,198,"Lleida","Former/Current Smoker",170,87,74,66,107,4,"Yes","No",52.85,3,"Yes",188,42
+"OY357","Women",38,"No","No","T1D",22.76,74,"Plaque",26,6.7,76,"Lleida","Former/Current Smoker",96,53.7,84,53,65.2,NA,"Yes","No",123.9,3,"No",135,18
+"OY052","Men",63,"Yes","Yes","T1D",23.2,88,"Plaque",46,7.4,139,"Lleida","Former/Current Smoker",138,60,56,85,69,NA,"Yes","No",79.11,2,"Yes",165,21
+"OY374","Men",49,"Yes","Yes","T1D",26.4,96,"Plaque",32,6.6,118,"Lleida","Former/Current Smoker",147,79,68,35,72,4,"Yes","No",95.8,1,"No",121,22
+"OY274","Women",47,"Yes","Yes","T2D",37.3,122,"Plaque",10,7.5,117,"Lleida","Former/Current Smoker",142,82,90,44,62,4,"No","Yes",70.73,2,"Yes",124,27
+"OY458","Women",51,"No","Yes","T1D",23.5,95,"Plaque",28,7.6,51,"Lleida","Former/Current Smoker",139,72,93,63,132,6,"Yes","No",92.79,1,"No",214,12
+"OY047-2","Women",53,"No","Yes","T2D",27.4,94,"Plaque",0.83,7.1,131,"Clinic","Former/Current Smoker",121,77,77,54,127,NA,"No","Yes",80.9,3,"No",196,27
+"OY335","Women",73,"Yes","Yes","T2D",28.1,86,"Plaque",10,6.8,130,"Lleida","No Smoker",130,69,84,55,159.2,6,"No","Yes",73.48,3,"Yes",231,13
+"OY346","Women",47,"Yes","Yes","T1D",27.36,90,"Plaque",20,8.3,149,"CRuti","Former/Current Smoker",110,64,71,58,84,0,"Yes","No",99.47,3,"No",156,13
+"OY081","Men",56,"No","No","T1D",33,115,"Plaque",38,6.9,106,"Lleida","No Smoker",136,74,80,76,110,7,"Yes","No",78.2,2,"Yes",202,14
+"OY106","Women",49,"Yes","No","T1D",21.5,75,"Plaque",18,8.9,99,"Lleida","Former/Current Smoker",123,62,88,58,90,7,"Yes","No",106.25,1,"No",166,28
+"OY286","Men",57,"Yes","No","T2D",34.7,123,"Plaque",20,8.5,185,"Lleida","Former/Current Smoker",165,92,76,88,110.8,5,"Yes","No",105.71,2,"Yes",214,33
+"OY003","Men",60,"Yes","Yes","T1D",25.86,94,"Plaque",33,6.9,171,"CRuti","Former/Current Smoker",140,70,85,68,97,2,"Yes","No",94.51,3,"Yes",182,15
+"OY059","Men",45,"No","No","T1D",25.6,96,"Plaque",15,7,180,"Lleida","Former/Current Smoker",135,70,82,53,141,6,"Yes","No",80.8,1,"No",210,12
+"OY319","Men",43,"No","No","T1D",27.23,89,"Plaque",17,7,59,"CRuti","No Smoker",108,50,79,64,135,5,"Yes","No",92.1,2,"No",215,15
+"OY045","Men",51,"No","Yes","T1D",31.43,110,"Plaque",11,7.6,95,"CRuti","No Smoker",130,80,128,56,105,2,"Yes","No",122.94,1,"No",187,31
+"OY354","Men",44,"No","Yes","T1D",26.5,94,"Plaque",10,7.2,264,"Lleida","Former/Current Smoker",126,75,93,59,97,NA,"Yes","No",88.26,1,"Yes",175,46
+"OY522","Men",62,"Yes","Yes","T1D",19.1,82,"Plaque",16,8,234,"Lleida","Former/Current Smoker",128,69,99,57,87,3,"Yes","No",83.36,3,"Yes",164,15
+"OY455","Women",60,"No","Yes","T1D",27.39,83,"Plaque",45,6.3,207,"CRuti","Former/Current Smoker",135,77,71,80,84,4,"Yes","No",125.85,1,"Yes",178,13
+"OY177","Men",55,"No","Yes","T2D",34.2,112,"Plaque",13,10,187,"Lleida","Former/Current Smoker",127,70,89,58,77.2,4,"No","Yes",84.36,2,"Yes",153,44
+"OY194","Women",75,"Yes","No","T2D",30.9,110,"Plaque",20,11.8,275,"Lleida","No Smoker",172,80,129,61,145.2,3,"Yes","Yes",55.33,3,"Yes",232,19
+"OY207","Men",61,"Yes","Yes","T2D",36.5,132,"Plaque",5,7,168,"Lleida","Former/Current Smoker",162,97,98,49,104.4,2,"No","Yes",127.14,3,"Yes",173,25
+"OY494","Men",66,"Yes","No","T2D",28.91,105,"Plaque",0.92,7.1,119,"Clinic","No Smoker",145,87,94,51,165,NA,"No","Yes",64.3,3,"No",235,17
+"OY406","Men",63,"Yes","Yes","T2D",26.7,100,"Plaque",21,7.9,121,"Lleida","Former/Current Smoker",180,90,91,47,51.8,6,"Yes","Yes",84.15,3,"Yes",117,14
+"OY182","Men",64,"No","No","T2D",25,95,"Plaque",15,8.3,160,"Lleida","Former/Current Smoker",133,80,89,40,58.2,5,"No","Yes",130.61,2,"No",116,14
+"OY477","Men",70,"Yes","Yes","T1D",30.3,120,"Plaque",25,6.3,99,"Lleida","Former/Current Smoker",167,68,94,53,96,6,"Yes","No",83.42,4,"Yes",168,17
+"OY377","Men",69,"Yes","Yes","T2D",42.67,135,"Plaque",0.42,NA,NA,"Clinic","No Smoker",125,74,NA,NA,NA,NA,"No","Yes",NA,4,"No",NA,NA
+"OY276","Women",70,"Yes","Yes","T2D",35,NA,"Plaque",9,NA,106,"Lleida","No Smoker",143,73,119,60,108.2,4,"No","No",84.11,2,"No",192,23
+"OY260","Men",63,"No","No","T2D",25.06,90,"Plaque",0.33,6.9,96,"Clinic","No Smoker",136,70,72,58,102,NA,"No","No",75.6,3,"No",174,31
+"OY160","Women",70,"Yes","Yes","T2D",26.38,87,"Plaque",0.25,6.4,117,"Clinic","No Smoker",139,83,81,46,94,NA,"No","No",88.6,3,"No",156,27
+"OY269","Women",64,"Yes","Yes","T2D",28.48,90,"Plaque",0.25,5.9,130,"Clinic","No Smoker",142,72,87,48,96,NA,"No","No",83,3,"No",161,39
+"OY263","Women",54,"Yes","Yes","T2D",36.1,115.5,"Plaque",7,8.9,136,"Lleida","No Smoker",147,86,120,60,164,3,"Yes","Yes",85.79,2,"No",248,22
+"OY508","Women",65,"No","Yes","T2D",29.86,96,"Plaque",0.92,11.3,165,"Clinic","No Smoker",149,91,99,52,49,NA,"No","Yes",80.1,6,"No",121,19
+"OY270","Women",74,"Yes","Yes","T1D",23.4,77,"Plaque",44,8.2,71,"Lleida","No Smoker",177,74,117,62,103,4,"Yes","No",83.17,5,"No",188,18
+"OY299","Men",47,"No","Yes","T1D",24.04,87,"Plaque",16,6.8,88,"Lleida","Former/Current Smoker",115.7,63.3,87,66,72.6,NA,"Yes","No",91.7,3,"Yes",156,38
+"OY373","Men",71,"Yes","No","T2D",22.1,NA,"Plaque",26,10.3,283,"Lleida","Former/Current Smoker",148,60,103,38,70.4,2,"Yes","No",90.09,4,"No",129,18
+"OY187","Men",62,"No","Yes","T2D",25.6,110,"Plaque",0.75,7.1,97,"Clinic","No Smoker",128,88,94,44,70,NA,"No","Yes",75.8,3,"Yes",133,29
+"OY282","Men",53,"Yes","No","T1D",31.7,114,"Plaque",28,9,200,"Lleida","Former/Current Smoker",148,95,129,65,165,NA,"Yes","No",110.64,2,"No",256,35
+"OY005","Men",69,"Yes","Yes","T2D",33.92,112,"Plaque",0.5,12,334,"Clinic","No Smoker",159,85,113,59,116,NA,"No","No",79.7,3,"No",198,81
+"OY396","Men",57,"Yes","Yes","T1D",26.05,97,"Plaque",12,6.2,114,"Lleida","Former/Current Smoker",141,92,88,53,73.4,NA,"Yes","No",94.3,3,"Yes",144,28
+"OY301","Men",68,"No","No","T2D",20.6,82.5,"Plaque",3,7.6,191,"Lleida","Former/Current Smoker",153,99,106,51,51.8,4,"No","No",86.12,4,"No",124,15
+"OY054","Men",75,"Yes","Yes","T2D",28.5,109,"Plaque",5,6.7,NA,"Lleida","Former/Current Smoker",134,62,128,40,88.4,4,"No","Yes",81.22,2,"No",154,26
+"OY155","Men",39,"No","No","T1D",21.3,85,"Plaque",12,8.6,128,"Lleida","Former/Current Smoker",118.7,75,93,45,116.4,NA,"Yes","No",132.2,3,"No",180,19
+"OY338","Men",69,"No","Yes","T2D",34.31,112,"Plaque",0.75,6.9,136,"Clinic","No Smoker",140,78,129,59,82,NA,"No","Yes",87.1,4,"No",167,33
+"OY402","Men",64,"Yes","No","T2D",29.05,108,"Plaque",0.33,6,123,"Clinic","No Smoker",111,78,108,64,136,NA,"No","No",90.9,6,"No",222,62
+"OY233","Men",73,"Yes","Yes","T2D",30.9,111,"Plaque",9,5.7,86,"Lleida","Former/Current Smoker",117,67,127,40,81.6,3,"No","Yes",82.72,4,"Yes",147,19
+"OY066","Women",70,"Yes","No","T2D",36,116,"Plaque",14,8.9,145,"Lleida","No Smoker",129,68,146,50,112.8,7,"Yes","Yes",66.12,2,"Yes",192,28
+"OY411","Men",60,"No","Yes","T2D",30.1,95,"Plaque",2,7.3,157,"Lleida","Former/Current Smoker",132,74,121,38,108.8,6,"No","Yes",72.85,2,"No",171,23
+"OY228","Men",62,"No","Yes","T2D",30.41,103,"Plaque",0.92,6.8,136,"Clinic","No Smoker",129,82,109,51,97,NA,"No","Yes",102.5,3,"No",170,54
+"OY113","Men",67,"Yes","No","T2D",33.56,108,"Plaque",0.58,7,134,"Clinic","No Smoker",113,92,95,33,100,NA,"No","No",68.3,3,"Yes",152,34
+"OY312","Women",51,"No","No","T2D",33.2,119,"Plaque",2,7.8,166,"Lleida","Former/Current Smoker",127,72,143,47,212.4,3,"Yes","Yes",111.82,3,"No",288,17
+"OY317","Women",52,"Yes","Yes","T2D",37.4,NA,"Plaque",10,6,94,"Lleida","Former/Current Smoker",133,75,140,43,127,2,"No","Yes",87.87,2,"No",198,25
+"OY500","Women",53,"Yes","Yes","T1D",26.06,102,"Plaque",16,11.4,381,"CRuti","Former/Current Smoker",180,90,139,40,213,2,"Yes","No",84.73,3,"No",281,9
+"OY012","Women",51,"Yes","No","T2D",28.6,106,"Plaque",22,7.4,187,"Lleida","No Smoker",147,74,142,43,97.6,3,"No","Yes",94.42,3,"No",169,22
+"OY298","Men",71,"Yes","Yes","T2D",28.9,108,"Plaque",26,9.1,324,"Lleida","Former/Current Smoker",166,73,158,37,103.4,4,"Yes","Yes",54.42,2,"Yes",172,16
+"OY400","Men",53,"Yes","Yes","T2D",37.56,122,"Plaque",0.33,6.2,132,"Clinic","No Smoker",156,109,136,39,115,NA,"No","No",70.1,3,"No",181,40
+"OY213","Men",61,"No","No","T2D",33.5,114,"Plaque",7,6.9,143,"Lleida","Former/Current Smoker",133,71,182,42,96.6,5,"No","Yes",76.85,2,"No",175,26
+"OY200","Women",71,"Yes","Yes","T2D",33.3,114,"Plaque",25,9.6,165,"Lleida","No Smoker",153,60,144,60,105.2,3,"Yes","No",81.15,3,"Yes",194,21
+"OY309","Women",53,"Yes","No","T2D",42.39,135,"Plaque",0.5,14,304,"Clinic","No Smoker",134,74,160,40,118,NA,"No","Yes",82.2,3,"No",190,55
+"OY379","Men",44,"Yes","Yes","T1D",31.6,118,"Plaque",12,7.6,296,"Lleida","Former/Current Smoker",163,112,167,47,156,NA,"Yes","No",102.06,1,"No",236,30
+"OY224","Men",74,"No","Yes","T2D",37.6,116,"Plaque",1,6.9,149,"Lleida","Former/Current Smoker",139,80,134,61,85.2,3,"No","Yes",95.88,2,"Yes",173,27
+"OY437","Women",70,"Yes","No","T2D",30.08,98,"Plaque",0.67,6.1,114,"Clinic","Former/Current Smoker",130,86,145,57,108,NA,"No","Yes",72,4,"No",194,38
+"OY445","Women",38,"Yes","Yes","T1D",22.41,86,"Plaque",22,10.4,297,"CRuti","Former/Current Smoker",144,82,181,50,148,3,"Yes","No",62.77,3,"No",234,17
+"OY268","Women",63,"No","Yes","T2D",29.97,70,"Plaque",0.83,6.7,118,"Clinic","No Smoker",122,83,193,40,145,NA,"No","No",101.1,3,"No",224,19
+"OY029","Women",62,"Yes","Yes","T1D",28.35,96,"Plaque",54,7.8,276,"CRuti","No Smoker",140,70,150,60,76,6,"Yes","No",99.38,1,"Yes",166,26
+"OY262","Men",69,"Yes","Yes","T1D",24.09,97,"Plaque",35,7.7,98,"Lleida","Former/Current Smoker",121.7,53.3,162,49,85.6,NA,"Yes","No",NA,5,"No",NA,NA
+"OY383","Men",37,"No","No","T1D",31.9,101,"Plaque",11,8.2,85,"Lleida","Former/Current Smoker",139,80,161,46,118,NA,"Yes","No",110.37,1,"No",196,23
+"OY203","Women",72,"Yes","Yes","T2D",35,110,"Plaque",20,9.9,217,"Lleida","Former/Current Smoker",182,89,167,50,86.6,5,"Yes","Yes",51.52,4,"Yes",170,82
+"OY332","Women",59,"No","No","T2D",24.69,95.5,"Plaque",0.67,12.7,152,"Clinic","No Smoker",132,88,132,52,176,NA,"Yes","No",74.6,5,"No",254,25
+"OY094","Men",55,"Yes","Yes","T2D",28.1,91,"Plaque",15,7.8,78,"Lleida","No Smoker",134,69,168,46,107.4,4,"Yes","Yes",84.36,4,"No",187,19
+"OY429","Women",54,"Yes","Yes","T2D",50.3,NA,"Plaque",16,6.9,143,"Lleida","Former/Current Smoker",122,55,175,47,94,6,"No","Yes",79.31,2,"No",176,26
+"OY273","Men",41,"No","No","T2D",31.88,115,"Plaque",0.92,6.8,146,"Clinic","No Smoker",105,73,195,37,117,NA,"No","No",122.4,3,"No",193,63
+"OY306","Men",65,"Yes","No","T2D",27.04,98.5,"Plaque",0.25,6.5,120,"Clinic","No Smoker",179,95,171,43,184,NA,"No","Yes",77.8,6,"No",261,35
+"OY192","Men",61,"Yes","Yes","T2D",31.05,114,"Plaque",0.42,6.4,170,"Clinic","No Smoker",140,87,218,39,166,NA,"No","Yes",111.1,6,"No",249,53
+"OY480","Men",63,"Yes","Yes","T2D",25.69,96,"Plaque",0.83,7.1,138,"Clinic","No Smoker",154,84,169,42,149,NA,"No","No",69.9,3,"No",225,30
+"OY166","Men",62,"No","No","T2D",29.55,104,"Plaque",0.17,10.7,270,"Clinic","No Smoker",145,89,279,39,109,NA,"No","Yes",99.5,3,"No",204,27
+"OY489","Men",51,"Yes","No","T2D",26.4,95,"Plaque",0.58,6.8,126,"Clinic","No Smoker",134,84,157,34,90,NA,"No","No",72.2,3,"No",155,41
+"OY365","Men",66,"Yes","Yes","T2D",30.3,102,"Plaque",0.67,5.8,119,"Clinic","Former/Current Smoker",150,75,188,37,67,NA,"No","No",76.6,3,"No",142,27
+"OY216","Women",62,"Yes","Yes","T2D",32.02,103,"Plaque",0.67,5.8,109,"Clinic","No Smoker",134,80,198,42,131,NA,"No","No",105.5,3,"No",123,32
+"OY486","Men",67,"Yes","Yes","T2D",27.73,105,"Plaque",0.08,5.5,107,"Clinic","No Smoker",145,72,172,32,47,NA,"No","No",72.9,4,"Yes",113,29
+"OY463","Women",66,"Yes","Yes","T2D",36.8,112,"Plaque",0.33,6.2,106,"Clinic","No Smoker",118,61,181,51,166,NA,"No","No",50.8,4,"No",253,23
+"OY235","Men",65,"No","No","T2D",32.16,111,"Plaque",0.17,8,119,"Clinic","No Smoker",105,76,152,45,156,NA,"No","Yes",83.7,5,"No",231,18
+"OY164","Men",28,"No","No","T1D",25.4,93.5,"Plaque",10,8.4,159,"CRuti","Former/Current Smoker",115,75,150,46,175,4,"Yes","No",111.87,1,"No",251,19
+"OY141-3","Men",54,"No","No","T2D",26.7,NA,"Plaque",12,6.3,124,"Lleida","Former/Current Smoker",150,83,108,36,108.4,2,"No","Yes",95.22,3,"Yes",186,28
+"OY413","Women",70,"No","No","T2D",23.01,101,"Plaque",0.5,6.8,133,"Clinic","Former/Current Smoker",126,79,204,45,113,NA,"No","No",59.7,4,"No",199,32
+"OY345","Men",73,"Yes","No","T2D",24.9,96,"Plaque",1,6,117,"Lleida","Former/Current Smoker",145,64,224,35,140.2,7,"No","No",59.92,6,"Yes",220,17
+"OY313","Men",54,"Yes","No","T2D",33.8,105,"Plaque",8,9,249,"Lleida","Former/Current Smoker",150,87,224,40,175.2,NA,"Yes","Yes",99.3,2,"No",260,23
+"OY475","Women",72,"Yes","No","T2D",39.56,126,"Plaque",0.67,6.7,139,"Clinic","No Smoker",156,82,215,44,161,NA,"No","No",83.7,3,"No",248,25
+"OY158","Men",52,"Yes","Yes","T2D",35.5,120,"Plaque",4,10.5,231,"Lleida","Former/Current Smoker",120,85,317,27,60,4,"No","Yes",107.7,4,"Yes",135,47
+"OY461","Women",67,"No","No","T2D",30,94,"Plaque",10,6.9,153,"Lleida","No Smoker",128,84,291,39,112,4,"No","Yes",103.69,2,"Yes",186,33
+"OY503","Men",42,"No","Yes","T1D",26.6,97,"Plaque",12,11,450,"Lleida","Former/Current Smoker",128,74,311,38,145,5,"Yes","No",92.54,1,"No",197,18
+"OY055","Women",54,"No","No","T2D",24.3,94,"Plaque",0.75,7.5,179,"Clinic","Former/Current Smoker",150,84,410,48,NA,NA,"No","No",85.9,4,"No",241,16
+"OY490","Men",61,"Yes","No","T2D",36.07,127,"Plaque",0.25,6.8,124,"Clinic","No Smoker",149,87,366,47,153,NA,"No","Yes",81.7,4,"No",273,42
+"OY515","Men",52,"Yes","Yes","T1D",33.46,108,"Plaque",14,8.2,91,"Lleida","Former/Current Smoker",123,72.7,368,50,118,NA,"Yes","No",93.5,2,"No",170,53
+"OY404","Women",50,"Yes","No","T2D",26.84,84,"Plaque",0.92,7.4,156,"Clinic","Former/Current Smoker",133,83,374,47,150,NA,"No","No",117.1,6,"No",272,20
+"OY436","Men",59,"Yes","No","T2D",28.38,95,"Plaque",0.42,6.6,143,"Clinic","No Smoker",145,85,498,50,NA,NA,"No","No",108.4,3,"No",281,19
+"OY280","Women",41,"Yes","No","T2D",36.7,112,"Plaque",12,6.5,112,"Lleida","Former/Current Smoker",155,74,202,38,63.6,8,"No","Yes",119.3,3,"No",142,17
+"OY030","Women",49,"No","No","T2D",25,72,"No plaque",4,5.8,111,"Lleida","Former/Current Smoker",113,65,46,52,129.8,9,"Yes","Yes",112.73,0,"Yes",191,12
+"OY397","Men",57,"No","No","T2D",28,98,"No plaque",13,7.4,159,"Lleida","Former/Current Smoker",140,81,49,55,119.2,4,"No","No",80.73,0,"No",184,17
+"OY394","Men",47,"No","No","T2D",24.5,90,"No plaque",6,9.7,202,"Lleida","No Smoker",111,65,45,47,94,3,"Yes","Yes",84.98,0,"No",150,60
+"OY051-2","Women",52,"No","Yes","T2D",39.4,114,"No plaque",16,9.4,142,"Lleida","Former/Current Smoker",153,67,61,46,138.8,5,"Yes","Yes",121.14,0,"Yes",197,19
+"OY469","Men",37,"No","No","T1D",24.7,96,"No plaque",8,7.3,71,"Lleida","Former/Current Smoker",128,77,44,45,115,5,"Yes","No",113.68,0,"No",169,40
+"OY304","Men",54,"No","Yes","T1D",24.4,84,"No plaque",24,6.9,148,"Lleida","No Smoker",126,74,40,64,120,3,"Yes","No",93.93,0,"Yes",192,19
+"OY139","Women",52,"No","Yes","T1D",19.3,74,"No plaque",10,6.7,58,"Lleida","No Smoker",119,59,48,91,112,3,"Yes","No",94.05,0,"Yes",213,14
+"OY265","Women",41,"No","No","T1D",26.2,77,"No plaque",15,7.7,233,"Lleida","No Smoker",112,67,48,72,105,3,"Yes","No",102.26,0,"No",187,18
+"OY085","Men",42,"No","No","T1D",21.5,82,"No plaque",29,5.9,134,"Lleida","Former/Current Smoker",98,60,43,61,131,5,"Yes","No",110.79,0,"No",201,16
+"OY096","Women",58,"No","Yes","T1D",23.6,81,"No plaque",18,6.3,216,"Lleida","No Smoker",140,82,49,58,96,5,"Yes","No",111.19,0,"Yes",164,20
+"OY398","Men",50,"No","No","T1D",27.1,100,"No plaque",33,7.6,193,"Lleida","No Smoker",145,77,61,65,143,NA,"Yes","No",102.32,0,"No",220,17
+"OY358","Men",46,"No","No","T1D",33.1,104,"No plaque",8,8.4,223,"Lleida","No Smoker",131,83,44,53,95,NA,"Yes","No",79.53,0,"No",157,20
+"OY261","Men",39,"No","No","T1D",20.39,76,"No plaque",34,7.3,176,"CRuti","No Smoker",135,82,41,96,93,2,"Yes","No",109.19,0,"No",197,10
+"OY511","Men",41,"No","No","T1D",21.45,67,"No plaque",38,7.6,301,"CRuti","No Smoker",110,58,45,58,137,4,"Yes","No",92.99,0,"No",204,19
+"OY517","Men",40,"No","Yes","T1D",25.49,94,"No plaque",11,9.5,117,"CRuti","Former/Current Smoker",135,79,56,96,108,7,"Yes","No",92.28,0,"No",215,20
+"OY482","Women",47,"No","No","T1D",21.89,87,"No plaque",34,7.1,71,"CRuti","No Smoker",131,76,47,73,136,3,"Yes","No",121.01,0,"No",218,10
+"OY355","Men",49,"No","Yes","T1D",26.2,96,"No plaque",26,7.4,227,"CRuti","Former/Current Smoker",138,90,38,56,64,3,"Yes","No",119.86,0,"No",128,31
+"OY410","Men",36,"No","No","T1D",21.18,80,"No plaque",17,7.8,154,"CRuti","Former/Current Smoker",128,70,32,67,103,2,"Yes","No",146.79,0,"No",176,14
+"OY418","Women",46,"No","Yes","T1D",28.67,81.5,"No plaque",9,7.7,79,"CRuti","Former/Current Smoker",128,74,56,62,71,4,"Yes","No",194.06,0,"No",144,11
+"OY122","Women",54,"No","No","T1D",20.7,73,"No plaque",14,6.4,123,"Lleida","Former/Current Smoker",107,52,47,82,103,6,"Yes","No",85.79,0,"Yes",194,21
+"OY520","Women",40,"No","No","T1D",22.2,81,"No plaque",30,7,138,"Lleida","Former/Current Smoker",136,80,43,59,62,3,"Yes","No",92.68,0,"No",130,16
+"OY226","Women",45,"Yes","No","T1D",19,75,"No plaque",31,8.4,233,"Lleida","No Smoker",107,66,42,56,105,4,"Yes","No",79.87,0,"Yes",169,8
+"OY078","Men",54,"No","Yes","T1D",22.49,89,"No plaque",20,6.3,285,"CRuti","Former/Current Smoker",120,70,37,72,81,9,"Yes","No",80.65,0,"Yes",160,18
+"OY078-2","Men",54,"No","Yes","T1D",22.49,89,"No plaque",20,6.3,285,"CRuti","Former/Current Smoker",120,70,37,72,81,9,"Yes","No",80.65,0,"Yes",160,18
+"OY043","Women",53,"No","No","T1D",28.3,105,"No plaque",14,8.5,187,"Lleida","Former/Current Smoker",126,69,65,63,123,6,"Yes","No",76.13,0,"Yes",199,16
+"OY487","Men",49,"No","No","T1D",22.3,77,"No plaque",28,7.1,98,"Lleida","No Smoker",170,83,53,87,110,6,"Yes","No",85.3,0,"No",208,33
+"OY067","Women",36,"Yes","No","T1D",37.25,107.5,"No plaque",8,8.8,266,"CRuti","No Smoker",160,69,64,62,115,6,"Yes","No",93.15,0,"No",190,15
+"OY002","Women",44,"No","No","T1D",24.6,81,"No plaque",25,9.3,243,"Lleida","No Smoker",110,68,64,83,107,4,"Yes","No",120.07,0,"Yes",203,14
+"OY363","Men",39,"No","No","T1D",23.12,88,"No plaque",11,7.2,340,"CRuti","No Smoker",110,60,43,72,87,2,"Yes","No",100.35,0,"No",168,12
+"OY334","Women",61,"Yes","Yes","T2D",28.3,90,"No plaque",13,10.2,198,"Lleida","No Smoker",115,59,74,64,71.2,5,"No","Yes",89.48,0,"Yes",160,14
+"OY156","Women",43,"No","Yes","T1D",27.13,84,"No plaque",15,7.3,86,"CRuti","Former/Current Smoker",110,70,69,77,70,5,"Yes","No",120.63,0,"Yes",161,18
+"OY277","Men",48,"No","No","T1D",27.1,87,"No plaque",14,8.5,182,"Lleida","No Smoker",153,98,53,50,86,NA,"Yes","No",97.53,0,"Yes",147,14
+"OY259","Men",41,"No","No","T1D",24.66,NA,"No plaque",8,6.5,185,"CRuti","No Smoker",116,78,54,78,139,4,"Yes","No",91.23,0,"No",228,15
+"OY435","Women",51,"No","Yes","T1D",32.5,90,"No plaque",20,7.3,223,"Lleida","No Smoker",120,75,69,80,93,NA,"Yes","No",81.47,0,"No",187,14
+"OY484","Women",46,"No","Yes","T1D",24.13,97,"No plaque",20,7.7,252,"CRuti","No Smoker",120,70,56,65,99,3,"Yes","No",85.83,0,"No",175,9
+"OY507","Women",59,"No","No","T1D",23.6,76,"No plaque",28,7.1,219,"Lleida","No Smoker",137,67,53,114,86,4,"Yes","No",90.09,0,"No",211,43
+"OY524","Women",37,"No","No","T1D",20.7,77,"No plaque",30,7.8,185,"Lleida","Former/Current Smoker",93,52,53,51,112,4,"Yes","No",94.16,0,"No",174,15
+"OY295","Men",44,"Yes","No","T1D",27.3,100,"No plaque",21,6.1,139,"Lleida","Former/Current Smoker",164,79,63,59,123,NA,"Yes","No",90.51,0,"No",195,20
+"OY251","Women",54,"No","No","T2D",32.8,113,"No plaque",9,9.7,283,"Lleida","No Smoker",134,73,54,83,84.2,4,"Yes","No",80.53,0,"No",178,16
+"OY293","Men",66,"No","No","T2D",27.9,107,"No plaque",7,8,146,"Lleida","No Smoker",150,100,83,46,152.4,5,"No","Yes",88.97,0,"No",215,28
+"OY215","Women",39,"No","No","T1D",27.6,87,"No plaque",30,8,69,"Lleida","No Smoker",116,64,53,58,75,5,"Yes","No",111.29,0,"No",144,30
+"OY231","Women",41,"No","No","T1D",21.2,72,"No plaque",25,7.8,174,"CRuti","No Smoker",131,79,58,88,128,4,"Yes","No",97,0,"No",228,28
+"OY362","Men",38,"No","No","T1D",24.2,84,"No plaque",22,6.2,196,"Lleida","No Smoker",118,79,46,69,96,4,"Yes","No",80.82,0,"No",174,21
+"OY167","Men",43,"No","No","T1D",26.5,99,"No plaque",20,7.5,107,"Lleida","No Smoker",129,82,65,68,107,6,"Yes","No",98.38,0,"No",188,24
+"OY124-2","Women",46,"No","No","T1D",27.9,82,"No plaque",18,9.2,191,"Lleida","Former/Current Smoker",133,83,63,64,147,8,"Yes","No",96.42,0,"No",224,15
+"OY243","Men",51,"No","Yes","T1D",28.9,103,"No plaque",23,6.9,73,"Lleida","No Smoker",142,90,72,47,108,2,"Yes","No",103.4,0,"Yes",169,24
+"OY186","Women",38,"No","No","T1D",27.3,92,"No plaque",7,7.8,121,"Lleida","Former/Current Smoker",115,62,68,75,116,2,"Yes","No",98.5,0,"No",205,8
+"OY123","Women",34,"No","No","T1D",22.59,63,"No plaque",27,6.5,200,"CRuti","No Smoker",120,70,45,103,91,3,"Yes","No",82.11,0,"No",203,17
+"OY168","Men",46,"No","Yes","T1D",32.41,NA,"No plaque",17,8,324,"CRuti","No Smoker",140,90,99,41,108,5,"Yes","No",NA,0,"Yes",169,23
+"OY414","Men",36,"No","Yes","T1D",29.1,103,"No plaque",21,7,212,"Lleida","No Smoker",150,89,67,50,101,2,"Yes","No",93.09,0,"No",164,24
+"OY250","Women",50,"No","No","T1D",20.4,71,"No plaque",38,8,145,"Lleida","No Smoker",114,72,110,81,128,5,"Yes","No",77.04,0,"No",231,12
+"OY126","Men",50,"No","No","T1D",25.6,95,"No plaque",26,7.4,66,"Lleida","No Smoker",128,76,59,57,82,NA,"Yes","No",74.76,0,"No",151,8
+"OY181","Men",47,"Yes","Yes","T1D",24.2,96,"No plaque",11,7,170,"Lleida","No Smoker",132,87,64,66,103,5,"Yes","No",94.06,0,"No",182,25
+"OY472","Women",43,"No","No","T1D",24.66,80,"No plaque",31,6.7,163,"CRuti","Former/Current Smoker",135,93,65,99,74,4,"Yes","No",94.43,0,"No",186,19
+"OY091","Women",44,"No","Yes","T2D",34,98,"No plaque",2,7.5,124,"Lleida","Former/Current Smoker",118,67,66,54,98.8,2,"No","No",97.29,0,"No",166,17
+"OY071","Men",46,"No","No","T1D",28.9,96,"No plaque",30,6.7,259,"Lleida","Former/Current Smoker",124,88,73,41,125,4,"Yes","No",90.85,0,"No",181,15
+"OY019","Women",48,"No","No","T1D",22.4,NA,"No plaque",47,8.7,84,"CRuti","Former/Current Smoker",110,60,75,80,153,5,"Yes","No",104.68,0,"No",248,11
+"OY434","Men",40,"No","No","T1D",27.25,85,"No plaque",24,8.9,173,"CRuti","No Smoker",119,78,57,46,89,1,"Yes","No",108.63,0,"No",146,15
+"OY405","Women",42,"No","Yes","T1D",25.24,88,"No plaque",23,7.6,146,"CRuti","No Smoker",124,84,68,60,92,6,"Yes","No",79.81,0,"No",166,12
+"OY184","Women",42,"No","No","T1D",21.91,81,"No plaque",33,7.5,105,"CRuti","Former/Current Smoker",110,60,59,58,107,6,"Yes","No",114.01,0,"No",177,14
+"OY427","Women",47,"No","Yes","T2D",24.8,84,"No plaque",10,7.1,139,"Lleida","No Smoker",143,84,100,66,131,3,"No","Yes",92.75,0,"Yes",217,64
+"OY027","Men",54,"Yes","No","T2D",34.6,119,"No plaque",5,9.6,271,"Lleida","No Smoker",168,100,83,45,78.4,6,"No","Yes",103.73,0,"No",140,56
+"OY518","Men",41,"No","Yes","T1D",24.6,91,"No plaque",15,7.6,147,"Lleida","No Smoker",93,60,73,52,102,3,"Yes","No",126.36,0,"No",169,53
+"OY384","Women",45,"No","No","T2D",29.1,92,"No plaque",3,7,160,"Lleida","No Smoker",141,81,72,64,97.6,3,"No","Yes",96.85,0,"No",176,35
+"OY366","Women",50,"Yes","No","T2D",34.5,105,"No plaque",5,7.2,138,"Lleida","No Smoker",113,87,85,73,114,3,"No","Yes",90.06,0,"No",204,30
+"OY499","Men",62,"Yes","No","T2D",28.5,101,"No plaque",6,NA,NA,"Lleida","Former/Current Smoker",183,93,57,37,86.6,7,"No","No",88.92,0,"No",135,26
+"OY528","Women",46,"No","Yes","T1D",33.33,108,"No plaque",29,6.8,205,"CRuti","No Smoker",138,88,78,NA,NA,3,"Yes","No",74.01,0,"No",170,11
+"OY079","Women",49,"No","No","T1D",26.8,83,"No plaque",21,6.7,220,"Lleida","Former/Current Smoker",104,71,61,67,90,6,"Yes","No",78.5,0,"Yes",169,7
+"OY244","Women",52,"No","No","T1D",21.15,74,"No plaque",52,8.4,132,"CRuti","No Smoker",110,70,53,61,102,2,"Yes","No",90.86,0,"No",174,17
+"OY446","Men",38,"No","No","T1D",26.64,87,"No plaque",11,7.5,68,"CRuti","Former/Current Smoker",106,69,63,40,101,2,"Yes","No",95.66,0,"No",154,11
+"OY470","Women",51,"No","Yes","T1D",34.9,106,"No plaque",41,7.9,150,"Lleida","Former/Current Smoker",142,78,59,62,116,NA,"Yes","No",69.57,0,"No",190,20
+"OY310","Men",40,"No","Yes","T1D",26.8,95,"No plaque",17,7.4,162,"CRuti","Former/Current Smoker",119,71,68,75,93,4,"Yes","No",108.63,0,"No",182,8
+"OY493","Women",68,"Yes","Yes","T1D",30.1,105,"No plaque",35,8.2,251,"Lleida","No Smoker",147,65,72,71,84,4,"Yes","No",79.81,0,"Yes",169,17
+"OY305","Women",47,"No","Yes","T1D",21.63,76,"No plaque",30,7,172,"CRuti","No Smoker",131,80,60,117,98,4,"Yes","No",107.16,0,"No",227,20
+"OY448","Women",39,"No","No","T1D",22.48,85,"No plaque",16,6.8,141,"CRuti","No Smoker",120,80,67,60,67,5,"Yes","No",105.2,0,"No",160,13
+"OY099","Women",47,"Yes","Yes","T1D",35.91,108,"No plaque",37,7,167,"CRuti","No Smoker",149,87,81,79,93,2,"Yes","No",149.35,0,"No",188,12
+"OY026","Men",59,"Yes","No","T2D",29.07,NA,"No plaque",0.17,6.6,121,"Clinic","No Smoker",109,71,55,55,108,NA,"No","No",93.6,0,"No",174,88
+"OY254","Men",46,"No","No","T2D",30.3,101,"No plaque",1,5.7,89,"Lleida","Former/Current Smoker",149,71,82,51,91.6,3,"No","Yes",95.74,0,"No",159,15
+"OY028","Men",45,"No","Yes","T1D",28.41,105,"No plaque",22,8.1,229,"CRuti","Former/Current Smoker",133,76,86,50,93,3,"Yes","No",103.05,0,"No",160,17
+"OY197","Men",28,"No","No","T1D",24.2,90,"No plaque",15,8.6,140,"Lleida","Former/Current Smoker",117,62,77,65,71,3,"Yes","No",96.75,0,"Yes",151,15
+"OY058","Men",50,"No","Yes","T1D",30.9,111,"No plaque",15,7.9,215,"Lleida","No Smoker",97,59,86,60,124,NA,"Yes","No",80.96,0,"Yes",201,22
+"OY534","Men",45,"No","No","T2D",34.7,120,"No plaque",10,7.3,141,"Lleida","Former/Current Smoker",124,70,99,33,119.2,3,"No","No",91.25,0,"No",172,37
+"OY441","Men",67,"No","No","T2D",32.1,116,"No plaque",5,9.3,252,"Lleida","Former/Current Smoker",133,66,81,37,22.8,4,"No","Yes",92.41,0,"Yes",76,22
+"OY510","Women",47,"No","Yes","T1D",30.1,103,"No plaque",12,8.1,176,"Lleida","Former/Current Smoker",113,74,74,53,87,3,"Yes","No",82.75,0,"No",155,20
+"OY302","Men",63,"Yes","Yes","T2D",41.38,123,"No plaque",0.33,6.5,142,"Clinic","No Smoker",160,104,83,51,104,NA,"No","No",72.2,0,"No",172,28
+"OY241","Men",59,"No","No","T2D",45.36,137,"No plaque",0.5,5,101,"Clinic","No Smoker",112,82,81,75,84,NA,"No","Yes",87.6,0,"No",175,15
+"OY439","Women",53,"No","No","T2D",30.2,102,"No plaque",15,8.4,192,"Lleida","Former/Current Smoker",141,78,115,57,160,7,"Yes","Yes",84.73,0,"No",240,22
+"OY153","Women",66,"Yes","Yes","T2D",30,106,"No plaque",15,8.6,142,"Lleida","No Smoker",179,93,81,73,101.8,5,"Yes","Yes",86.57,0,"Yes",191,21
+"OY105","Men",60,"Yes","Yes","T2D",29.6,108,"No plaque",4,8,183,"Lleida","Former/Current Smoker",144,74,92,31,58.6,4,"No","Yes",89.51,0,"Yes",108,17
+"OY159","Women",49,"No","Yes","T2D",26.6,90,"No plaque",2,8.1,192,"Lleida","Former/Current Smoker",122,85,112,58,102.6,5,"No","Yes",104.25,0,"No",183,19
+"OY202","Women",44,"No","No","T1D",23.03,NA,"No plaque",30,7,244,"CRuti","No Smoker",139,80,90,72,143,3,"Yes","No",140.5,0,"No",233,43
+"OY050-2","Women",63,"Yes","Yes","T2D",34,112,"No plaque",11,9.8,274,"Lleida","No Smoker",129,69,113,64,121.4,4,"No","Yes",75.71,0,"Yes",208,53
+"OY423","Men",56,"No","No","T2D",25.96,98,"No plaque",0.42,10.7,126,"Clinic","No Smoker",175,110,76,71,91,NA,"Yes","No",81.1,0,"No",177,15
+"OY245","Women",47,"No","No","T2D",33.46,118,"No plaque",0.67,6.5,150,"Clinic","No Smoker",106,75,89,39,112,NA,"No","Yes",81.7,0,"No",169,170
+"OY491","Women",60,"Yes","Yes","T1D",29.4,103,"No plaque",34,9.1,159,"Lleida","Former/Current Smoker",161,83,140,64,120,6,"Yes","No",103.97,0,"Yes",212,37
+"OY485","Women",60,"Yes","Yes","T2D",35.43,102,"No plaque",0.58,6.8,157,"Clinic","No Smoker",125,89,111,51,119,NA,"No","No",78.9,0,"No",192,81
+"OY232","Men",39,"No","No","T1D",21.3,NA,"No plaque",39,7.8,268,"CRuti","Former/Current Smoker",151,72,81,75,95,5,"Yes","No",115.94,0,"No",186,14
+"OY367","Men",43,"Yes","Yes","T1D",29.38,105,"No plaque",15,7.8,157,"CRuti","Former/Current Smoker",154,93,79,66,107,4,"Yes","No",110.26,0,"No",189,27
+"OY234","Men",44,"Yes","Yes","T1D",27,88,"No plaque",30,7.8,200,"Lleida","No Smoker",130,74,103,46,105,3,"Yes","No",69.08,0,"No",172,39
+"OY416","Men",66,"Yes","No","T2D",28.01,109,"No plaque",0.58,6.6,126,"Clinic","No Smoker",155,91,83,46,69,NA,"No","No",106,0,"No",132,18
+"OY129-2","Men",58,"Yes","Yes","T2D",28.4,100,"No plaque",7,8.4,140,"Lleida","Former/Current Smoker",125,77,83,45,62.4,4,"No","Yes",113.95,0,"Yes",124,24
+"OY407","Women",43,"No","Yes","T1D",22.14,85,"No plaque",20,8,133,"CRuti","No Smoker",90,62,88,74,82,1,"Yes","No",78.29,0,"No",174,15
+"OY403","Men",64,"Yes","No","T2D",32.2,97,"No plaque",22,7.3,167,"Lleida","Former/Current Smoker",150,55,98,37,109.4,4,"Yes","No",53.21,0,"Yes",166,19
+"OY111-3","Women",64,"No","Yes","T2D",41.1,112,"No plaque",6,10.2,215,"Lleida","No Smoker",138,79,122,44,91.6,7,"Yes","Yes",95.14,0,"Yes",160,44
+"OY056-2","Men",74,"No","No","T2D",23.6,92,"No plaque",3,6.3,137,"Lleida","No Smoker",135,77,122,54,140.6,4,"No","Yes",66.84,0,"No",219,22
+"OY474","Men",60,"Yes","No","T2D",34.8,110,"No plaque",0.75,6.2,135,"Clinic","Former/Current Smoker",130,86,119,47,150,NA,"No","No",90.8,0,"No",221,23
+"OY292","Men",64,"No","No","T2D",27.99,98,"No plaque",0.5,7.5,151,"Clinic","No Smoker",118,78,89,45,123,NA,"No","No",113.7,0,"No",186,18
+"OY253","Men",69,"No","No","T2D",28.6,102,"No plaque",25,8.8,197,"Lleida","Former/Current Smoker",149,77,119,47,95.2,6,"No","Yes",77.66,0,"No",166,15
+"OY179","Men",67,"No","Yes","T2D",25.59,103,"No plaque",0.17,6.2,133,"Clinic","No Smoker",110,82,120,46,195,NA,"No","No",88.8,0,"No",265,23
+"OY195","Women",72,"Yes","No","T2D",27.77,95,"No plaque",0.42,6.7,162,"Clinic","No Smoker",139,91,116,69,153,NA,"No","No",66.7,0,"No",245,24
+"OY289","Men",36,"No","No","T1D",NA,90.5,"No plaque",19,6.3,141,"CRuti","Former/Current Smoker",130,78,103,37,113,0,"Yes","No",100.62,0,"No",171,17
+"OY307","Men",59,"Yes","Yes","T2D",27.6,83,"No plaque",2,6.5,131,"Lleida","No Smoker",147,88,105,46,59,5,"No","Yes",93.53,0,"No",126,73
+"OY229","Women",66,"Yes","Yes","T2D",34.4,100,"No plaque",0.5,7.3,157,"Clinic","No Smoker",147,102,122,50,75,NA,"No","Yes",74,0,"No",149,39
+"OY381","Men",60,"Yes","Yes","T2D",29.8,114,"No plaque",12,5.5,144,"Lleida","Former/Current Smoker",140,83,118,36,67.4,NA,"No","No",75.35,0,"No",127,34
+"OY267","Women",49,"Yes","Yes","T2D",33.7,109,"No plaque",20,11.1,133,"Lleida","No Smoker",163,80,137,60,100.6,4,"Yes","Yes",160.36,0,"Yes",188,13
+"OY148-3","Men",63,"Yes","Yes","T2D",21.29,82,"No plaque",0.42,5.6,138,"Clinic","No Smoker",143,87,126,60,118,NA,"No","No",88.7,0,"No",203,16
+"OY236","Men",56,"Yes","No","T2D",28.1,98,"No plaque",10,7.4,93,"Lleida","No Smoker",157,89,115,70,146,5,"Yes","No",83.02,0,"No",239,14
+"OY451","Men",36,"No","No","T1D",23.89,100,"No plaque",23,8.3,74,"CRuti","No Smoker",144,81,133,32,130,1,"Yes","No",165.08,0,"No",189,16
+"OY142-2","Women",51,"Yes","Yes","T2D",26.62,102,"No plaque",0.92,6.2,131,"Clinic","Former/Current Smoker",106,74,152,34,88,NA,"No","Yes",101.6,0,"No",152,24
+"OY523","Men",51,"Yes","Yes","T2D",27.1,90,"No plaque",10,6.7,103,"Lleida","Former/Current Smoker",117,84,114,36,97.2,1,"No","Yes",72.86,0,"Yes",156,16
+"OY073","Women",54,"Yes","Yes","T2D",41.91,110,"No plaque",0.33,7.4,135,"Clinic","No Smoker",127,82,139,62,128,NA,"No","Yes",55.3,0,"No",218,47
+"OY152","Men",52,"No","Yes","T2D",43.1,138,"No plaque",7,11.5,394,"Lleida","Former/Current Smoker",147,87,165,37,69,4,"No","Yes",70.29,0,"Yes",139,21
+"OY412","Women",49,"Yes","No","T2D",30.59,95,"No plaque",0.67,7,147,"Clinic","No Smoker",117,76,142,50,119,NA,"No","Yes",73.2,0,"No",197,37
+"OY090","Women",41,"No","Yes","T2D",28.2,101,"No plaque",2,8.7,251,"Lleida","No Smoker",141,83,171,54,231.8,5,"No","Yes",87.86,0,"No",320,89
+"OY198","Men",68,"No","Yes","T2D",26.99,101,"No plaque",0.83,6.7,142,"Clinic","No Smoker",140,68,132,52,105,NA,"No","No",120.2,0,"No",183,29
+"OY303","Men",42,"No","Yes","T2D",36.2,117,"No plaque",3,9.8,253,"Lleida","Former/Current Smoker",134,80,188,26,118.4,6,"Yes","Yes",106.01,0,"No",182,36
+"OY163-2","Men",50,"No","No","T2D",28.3,101,"No plaque",10,8.7,167,"Lleida","Former/Current Smoker",126,73,139,41,119.2,3,"No","Yes",94.13,0,"No",188,15
+"OY163-3","Men",50,"No","No","T2D",28.3,101,"No plaque",10,8.7,167,"Lleida","Former/Current Smoker",126,73,139,41,119.2,3,"No","Yes",94.13,0,"No",188,15
+"OY117","Women",68,"Yes","No","T2D",33.09,110,"No plaque",0.58,6.2,127,"Clinic","No Smoker",135,74,120,51,125,NA,"No","No",65.7,0,"No",200,24
+"OY311","Women",60,"Yes","Yes","T2D",33.8,113,"No plaque",3,6.6,88,"Lleida","Former/Current Smoker",107,54,144,38,95.2,4,"Yes","No",108.19,0,"No",162,16
+"OY347","Women",45,"No","No","T2D",27.29,90,"No plaque",0,6.4,142,"Clinic","No Smoker",103,73,199,52,148,NA,"No","No",95.3,0,"No",227,21
+"OY020-2","Men",54,"Yes","Yes","T2D",32.19,114,"No plaque",0.92,6.6,136,"Clinic","No Smoker",132,78,144,48,129,NA,"No","No",113.9,0,"No",206,27
+"OY042-2","Men",45,"No","No","T2D",33.75,112,"No plaque",0.17,7.9,172,"Clinic","Former/Current Smoker",120,85,159,40,95,NA,"No","Yes",83.8,0,"No",167,58
+"OY266","Women",47,"No","Yes","T2D",39.4,112,"No plaque",4,8.3,241,"Lleida","Former/Current Smoker",104,63,190,36,55,3,"Yes","No",89.69,0,"No",129,31
+"OY104","Women",36,"Yes","No","T1D",18.3,71,"No plaque",26,7.4,41,"Lleida","No Smoker",108,74,141,92,135,NA,"Yes","No",146.34,0,"No",255,11
+"OY442","Men",41,"No","Yes","T2D",29,108,"No plaque",4,7.2,116,"Lleida","Former/Current Smoker",123,85,161,39,142.8,5,"No","Yes",133.01,0,"No",214,48
+"OY376","Women",68,"Yes","Yes","T2D",32.4,104,"No plaque",15,7.6,142,"Lleida","No Smoker",130,63,148,40,108.4,3,"No","Yes",59.22,0,"No",178,32
+"OY279","Women",40,"No","Yes","T1D",29.76,85,"No plaque",27,7.1,269,"CRuti","No Smoker",131,76,200,57,71,5,"Yes","No",88.3,0,"No",168,19
+"OY364","Men",70,"No","Yes","T2D",29.8,111,"No plaque",8,8.5,150,"Lleida","No Smoker",130,79,175,36,80,5,"No","Yes",106.22,0,"Yes",151,56
+"OY010","Women",67,"Yes","No","T2D",38.5,113,"No plaque",26,8.1,168,"Lleida","No Smoker",101,68,196,42,108.8,4,"Yes","Yes",94.26,0,"Yes",190,28
+"OY325","Men",66,"Yes","No","T2D",27.85,100,"No plaque",0.58,6.4,137,"Clinic","No Smoker",138,96,142,39,107,NA,"No","Yes",76.6,0,"No",174,32
+"OY408","Men",64,"Yes","Yes","T2D",28.9,104,"No plaque",29,8.7,170,"Lleida","No Smoker",174,90,172,38,81.6,4,"Yes","Yes",76.11,0,"Yes",154,21
+"OY172","Men",45,"Yes","Yes","T2D",36.7,120,"No plaque",3,7.9,210,"Lleida","Former/Current Smoker",141,80,202,38,95.6,4,"No","Yes",53.35,0,"No",174,38
+"OY521","Women",48,"No","No","T2D",29.6,105,"No plaque",10,10.7,164,"Lleida","No Smoker",122,80,168,52,84.4,5,"No","Yes",106.7,0,"No",170,21
+"OY531","Men",52,"No","No","T1D",30.44,108,"No plaque",10,6.7,134,"CRuti","Former/Current Smoker",149,83,152,46,106,4,"Yes","No",98.66,0,"No",182,18
+"OY046","Women",47,"No","No","T2D",22.8,96,"No plaque",1,6.6,133,"Lleida","Former/Current Smoker",127,79,223,39,134.4,2,"No","No",82.83,0,"No",218,NA
+"OY370","Men",54,"No","No","T2D",27.8,97,"No plaque",0.58,6.5,152,"Clinic","No Smoker",128,99,207,38,147,NA,"No","No",105.4,0,"No",226,37
+"OY205","Women",63,"No","No","T2D",34.14,NA,"No plaque",0.83,6.4,117,"Clinic","No Smoker",143,81,179,88,126,NA,"No","No",70.5,0,"No",250,23
+"OY476","Men",49,"No","Yes","T2D",28.7,99,"No plaque",8,9.1,173,"Lleida","No Smoker",141,88,208,42,115.4,3,"No","Yes",116.03,0,"No",199,30
+"OY375","Women",42,"Yes","Yes","T2D",54.8,142,"No plaque",16,12.5,240,"Lleida","Former/Current Smoker",157,86,342,26,133,3,"Yes","Yes",98.21,0,"Yes",219,13
+"OY283","Women",69,"Yes","Yes","T2D",35.1,116,"No plaque",8,10.6,307,"Lleida","No Smoker",154,95,409,32,67,5,"Yes","Yes",76.62,0,"Yes",167,32
+"OY391","Women",54,"No","Yes","T2D",34.41,109,"No plaque",0.75,9.2,171,"Clinic","Former/Current Smoker",113,75,480,45,NA,NA,"No","No",87.3,0,"No",224,46
+"OY188","Men",59,"No","No","T2D",31,103.5,"No plaque",0.58,6.8,158,"Clinic","No Smoker",130,86,448,41,NA,NA,"No","No",96.3,0,"No",203,26
+"OY127","Women",66,"Yes","No","T2D",30.3,104,"No plaque",24,7.8,255,"Lleida","No Smoker",136,62,109,52,130.2,4,"No","Yes",96.31,0,"No",204,19
+"OY023","Men",53,"No","No","T1D",27.12,NA,"No plaque",16,8.3,181,"CRuti","Former/Current Smoker",112,66,89,50,104,4,"Yes","No",73.89,0,"No",172,22
+"OY176","Women",70,"No","Yes","T2D",26.96,98,"No plaque",0.75,6.8,122,"Clinic","No Smoker",130,77,85,73,142,NA,"No","No",65.3,0,"No",232,21
+"OY431","Women",37,"No","No","T2D",26.52,91,"No plaque",0.92,6.3,119,"Clinic","No Smoker",109,68,117,55,173,NA,"No","No",73.4,0,"No",251,22
+"OY118-2","Women",62,"Yes","No","T2D",38.68,123,"No plaque",0.42,7.3,137,"Clinic","No Smoker",138,78,169,38,126,NA,"No","Yes",87.8,0,"No",198,57
+"OY532","Men",46,"Yes","No","Control",24.54,93,"Plaque",NA,5.3,99,"Mollerussa","No Smoker",130,74,58,62,134,2,"No","No",93.23,1,NA,208,25
+"OY514","Men",53,"No","No","Control",18.81,87,"Plaque",NA,5.3,92,"Mollerussa","Former/Current Smoker",131,70,55,128,107,2,"No","No",130.82,2,NA,246,189
+"OY165","Women",41,"No","No","Control",19.72,86,"Plaque",NA,5,86,"Mollerussa","No Smoker",86,55,37,68,128,5,"No","No",114.56,1,NA,203,9
+"OY072","Men",48,"No","No","Control",23.94,97,"Plaque",NA,5.2,74,"Mollerussa","Former/Current Smoker",128,77,68,60,151,3,"No","No",75.39,3,NA,225,21
+"OY230","Men",67,"No","Yes","Control",29.76,117,"Plaque",NA,5.7,93,"Mollerussa","Former/Current Smoker",135,76,54,52,170,4,"No","No",124.74,1,NA,233,12
+"OY333","Women",43,"No","No","Control",22.03,73,"Plaque",NA,5,84,"CRuti","Former/Current Smoker",NA,NA,60,91,116,4,"No","No",92.86,2,NA,219,14
+"OY169","Men",42,"No","No","Control",25.1,92,"Plaque",NA,5.7,81,"CRuti","Former/Current Smoker",129,77,58,63,144,3,"No","No",81.94,3,NA,219,17
+"OY189","Women",42,"No","No","Control",17.5,67,"Plaque",NA,5.4,83,"CRuti","Former/Current Smoker",115,69,46,56,78,2,"No","No",105.56,3,NA,143,13
+"OY125","Women",64,"Yes","Yes","Control",30.7,94,"Plaque",NA,5.8,96,"CRuti","Former/Current Smoker",117,76,79,63,147,6,"No","No",90.16,1,NA,226,25
+"OY378","Women",51,"No","No","Control",28.16,102,"Plaque",NA,4.9,94,"Mollerussa","No Smoker",127,73,59,83,138,3,"No","No",81.47,2,NA,233,19
+"OY471","Men",44,"No","No","Control",25.64,97,"Plaque",NA,5.4,99,"Mollerussa","No Smoker",118,84,52,81,119,2,"No","No",81.17,1,NA,210,16
+"OY247","Men",37,"No","No","Control",23.17,87,"Plaque",NA,5.3,73,"CRuti","No Smoker",119,74,61,63,124,2,"No","No",100.06,1,NA,199,13
+"OY452","Men",47,"No","No","Control",23.46,96,"Plaque",NA,5.3,104,"Mollerussa","Former/Current Smoker",119,75,59,68,97,1,"No","No",118.92,1,NA,177,38
+"OY093","Women",67,"Yes","Yes","Control",18.36,72,"Plaque",NA,5.6,83,"Mollerussa","No Smoker",128,61,65,81,100,3,"No","No",78.28,3,NA,194,24
+"OY337","Women",53,"No","No","Control",29.3,92,"Plaque",NA,5.3,78,"CRuti","No Smoker",155,85,84,72,145,4,"No","No",126.15,3,NA,234,16
+"OY210","Women",66,"Yes","Yes","Control",27.78,94,"Plaque",NA,4.8,101,"Mollerussa","No Smoker",116,68,66,74,108,3,"No","No",83.72,2,NA,195,13
+"OY151","Women",76,"No","Yes","Control",23.73,86,"Plaque",NA,5.5,89,"Mollerussa","No Smoker",115,67,62,77,110,3,"No","No",87.07,1,NA,199,14
+"OY468","Women",51,"No","Yes","Control",24.97,90,"Plaque",NA,5.6,108,"Mollerussa","Former/Current Smoker",119,70,70,40,136,1,"No","No",97.83,1,NA,190,16
+"OY006","Men",52,"No","No","Control",28.4,102,"Plaque",NA,5.2,101,"Mollerussa","Former/Current Smoker",122,65,61,55,122,1,"No","No",84.28,2,NA,189,16
+"OY110","Men",56,"No","No","Control",25.7,96,"Plaque",NA,5.7,97,"CRuti","Former/Current Smoker",116,69,54,83,65,5,"No","No",82.01,1,NA,159,17
+"OY147-2","Women",75,"Yes","No","Control",NA,NA,"Plaque",NA,5.4,104,"Mollerussa","No Smoker",NA,NA,72,77,117,NA,"No","No",NA,2,NA,208,8
+"OY223","Men",71,"No","No","Control",24.49,100,"Plaque",NA,5.4,79,"Mollerussa","No Smoker",163,110,67,52,129,4,"No","No",69.63,3,NA,194,9
+"OY022","Women",55,"Yes","No","Control",24.75,89,"Plaque",NA,5.5,78,"Mollerussa","No Smoker",133,80,73,69,149,1,"No","No",80.23,2,NA,233,19
+"OY329","Women",49,"No","No","Control",25.78,92,"Plaque",NA,5.7,74,"Mollerussa","Former/Current Smoker",108,73,76,48,156,3,"No","No",91.96,1,NA,219,17
+"OY150","Men",46,"No","No","Control",28.69,100,"Plaque",NA,5.7,97,"Mollerussa","Former/Current Smoker",129,76,102,46,158,2,"No","No",94.47,2,NA,224,25
+"OY497","Men",62,"Yes","No","Control",23.88,78,"Plaque",NA,5.4,88,"Mollerussa","Former/Current Smoker",121,76,66,59,94,5,"No","No",77.5,2,NA,166,23
+"OY092","Women",69,"No","Yes","Control",25.09,77,"Plaque",NA,5.3,93,"Clinic","No Smoker",114,77,61,80,100,NA,"No","No",107.5,3,NA,192,16
+"OY024","Men",42,"No","Yes","Control",30.12,98,"Plaque",NA,5.6,97,"CRuti","Former/Current Smoker",135,85,107,57,160,4,"No","No",109.15,2,NA,238,59
+"OY218","Men",79,"Yes","No","Control",31.86,105,"Plaque",NA,5.5,102,"Mollerussa","Former/Current Smoker",136,66,95,55,122,3,"No","No",65.96,2,NA,196,25
+"OY275","Men",45,"No","No","Control",25.68,98,"Plaque",NA,5.1,88,"Mollerussa","No Smoker",129,88,73,45,125,6,"No","No",94.89,1,NA,185,18
+"OY240","Women",63,"Yes","No","Control",26.49,99,"Plaque",NA,5.2,95,"Mollerussa","No Smoker",99,75,98,56,147,6,"No","No",80.52,1,NA,223,17
+"OY190","Women",32,"No","No","Control",25.59,89,"Plaque",NA,4.4,109,"Mollerussa","Former/Current Smoker",105,62,79,67,179,1,"No","No",107.54,1,NA,262,16
+"OY095","Men",61,"No","No","Control",26.37,103,"Plaque",NA,5.4,91,"Mollerussa","No Smoker",144,82,76,55,142,2,"No","No",76.85,3,NA,212,21
+"OY324","Women",77,"No","No","Control",30.08,102,"Plaque",NA,5.3,91,"Mollerussa","No Smoker",162,96,98,54,129,2,"No","No",79.82,4,NA,203,20
+"OY428","Men",74,"Yes","Yes","Control",26.37,108,"Plaque",NA,6.1,108,"Mollerussa","No Smoker",167,92,74,57,70,5,"No","No",62.79,3,NA,142,16
+"OY014","Women",56,"No","No","Control",25.77,103,"Plaque",NA,5.8,83,"Mollerussa","No Smoker",129,69,80,65,134,3,"No","No",NA,2,NA,215,20
+"OY121","Men",84,"Yes","Yes","Control",25.76,98,"Plaque",NA,5.8,95,"Mollerussa","Former/Current Smoker",135,89,75,49,77,6,"No","No",72.87,3,NA,141,13
+"OY288","Women",66,"No","Yes","Control",28.88,94,"Plaque",NA,5.8,97,"Mollerussa","No Smoker",111,60,96,77,142,6,"No","No",79.73,2,NA,238,13
+"OY034","Men",56,"Yes","Yes","Control",29.94,110,"Plaque",NA,5.6,96,"Mollerussa","Former/Current Smoker",131,84,89,41,119,4,"No","No",101.46,3,NA,178,18
+"OY481","Men",66,"Yes","No","Control",26.37,107,"Plaque",NA,5.2,89,"Mollerussa","No Smoker",154,96,204,30,111,3,"No","No",74.76,2,NA,182,16
+"OY064","Men",48,"No","No","Control",30.52,103,"Plaque",NA,5.6,108,"Mollerussa","No Smoker",126,67,87,54,119,3,"No","No",67.87,2,NA,190,20
+"OY454","Men",82,"Yes","No","Control",25.15,101,"Plaque",NA,5.8,88,"Mollerussa","Former/Current Smoker",151,78,92,65,151,5,"No","No",82.12,2,NA,234,7
+"OY450","Men",69,"Yes","No","Control",26.18,103,"Plaque",NA,5.5,97,"Clinic","No Smoker",114,78,77,64,157,NA,"No","No",94.6,4,NA,236,18
+"OY336","Men",51,"No","Yes","Control",33.46,114,"Plaque",NA,5.4,103,"Mollerussa","Former/Current Smoker",139,92,99,50,127,4,"No","No",66.38,2,NA,197,20
+"OY222","Women",68,"No","Yes","Control",25.97,98,"Plaque",NA,5.6,96,"Mollerussa","Former/Current Smoker",132,71,93,70,175,6,"No","No",83.21,3,NA,264,16
+"OY009","Men",35,"No","No","Control",26.79,75,"Plaque",NA,4.8,81,"Mollerussa","No Smoker",131,77,86,46,117,1,"No","No",90.22,1,NA,180,22
+"OY212","Men",58,"No","No","Control",26.45,103,"Plaque",NA,4.9,92,"Mollerussa","No Smoker",128,81,105,44,126,2,"No","No",90.13,3,NA,191,27
+"OY149","Men",59,"Yes","Yes","Control",24.54,104,"Plaque",NA,5.2,86,"Clinic","Former/Current Smoker",100,68,91,49,190,NA,"No","No",69.3,4,NA,257,20
+"OY013","Men",48,"Yes","No","Control",25.9,97.5,"Plaque",NA,5.3,92,"CRuti","No Smoker",144,80,106,55,141,6,"No","No",67.87,2,NA,217,18
+"OY401","Women",56,"No","No","Control",24.5,89.5,"Plaque",NA,5.3,91,"CRuti","No Smoker",156,94,74,NA,NA,6,"No","No",109.72,1,NA,203,10
+"OY256","Women",70,"Yes","No","Control",25.59,89,"Plaque",NA,5.4,97,"Mollerussa","No Smoker",110,82,92,70,115,5,"No","No",64.37,2,NA,203,20
+"OY248","Men",36,"No","No","Control",29.4,107,"Plaque",NA,5.5,92,"Mollerussa","Former/Current Smoker",122,88,109,39,135,5,"No","No",NA,1,NA,196,11
+"OY444","Women",50,"No","Yes","Control",20.7,86,"Plaque",NA,5,89,"Mollerussa","Former/Current Smoker",117,81,119,75,177,7,"No","No",78.18,1,NA,276,20
+"OY015","Men",35,"No","No","Control",25.66,96,"Plaque",NA,5.3,88,"Mollerussa","Former/Current Smoker",138,83,95,51,104,3,"No","No",96.03,1,NA,174,25
+"OY392","Men",50,"No","No","Control",22.28,92,"Plaque",NA,4.7,77,"Mollerussa","Former/Current Smoker",127,83,115,51,120,7,"No","No",103.82,3,NA,194,18
+"OY145","Men",64,"Yes","No","Control",31.99,NA,"Plaque",NA,6.3,134,"Clinic","No Smoker",124,67,106,59,178,NA,"No","No",73.6,4,NA,258,12
+"OY220","Women",45,"No","No","Control",32.14,104.5,"Plaque",NA,4.9,85,"CRuti","Former/Current Smoker",123,79,110,NA,NA,1,"No","No",87.59,3,NA,199,14
+"OY314","Men",49,"No","No","Control",27.77,105,"Plaque",NA,5.6,90,"Mollerussa","No Smoker",135,91,101,48,183,0,"No","No",86.36,1,NA,251,23
+"OY308","Men",55,"No","No","Control",19.35,85,"Plaque",NA,5.4,79,"Mollerussa","Former/Current Smoker",104,72,127,43,155,0,"No","No",92.33,2,NA,223,18
+"OY119-3","Women",56,"No","No","Control",23.75,93,"Plaque",NA,6,94,"Clinic","Former/Current Smoker",147,75,107,70,152,NA,"No","No",85.3,3,NA,243,12
+"OY041","Men",42,"No","No","Control",23.36,90,"Plaque",NA,5.5,102,"Mollerussa","No Smoker",124,75,121,43,151,1,"No","No",106.01,1,NA,218,24
+"OY208","Men",60,"No","No","Control",27.7,98,"Plaque",NA,6.2,98,"CRuti","Former/Current Smoker",140,85,109,56,100,4,"No","No",125.31,1,NA,178,26
+"OY393","Men",56,"Yes","No","Control",27.1,110,"Plaque",NA,5.5,116,"Clinic","No Smoker",130,74,75,49,86,NA,"No","No",85.2,4,NA,150,25
+"OY456","Men",72,"Yes","Yes","Control",37.55,138,"Plaque",NA,5.6,84,"Mollerussa","Former/Current Smoker",127,81,154,52,165,4,"No","No",68.67,6,NA,248,19
+"OY108","Women",60,"No","Yes","Control",31.25,106,"Plaque",NA,6.4,95,"Mollerussa","Former/Current Smoker",141,83,139,37,100,3,"No","No",110.43,2,NA,165,25
+"OY048","Women",83,"No","No","Control",32.89,91,"Plaque",NA,6.1,95,"Mollerussa","No Smoker",126,78,127,50,97,3,"No","No",69.5,2,NA,172,12
+"OY328","Men",63,"No","No","Control",28.51,NA,"Plaque",NA,5.5,85,"Clinic","No Smoker",137,81,106,46,170,NA,"No","No",71.4,4,NA,237,22
+"OY246","Men",68,"No","Yes","Control",23.24,89,"Plaque",NA,5.5,96,"Mollerussa","Former/Current Smoker",137,94,119,45,109,2,"No","No",86.12,2,NA,178,12
+"OY098","Women",55,"Yes","No","Control",22.49,90,"Plaque",NA,5.8,89,"Mollerussa","Former/Current Smoker",133,80,117,51,146,1,"No","No",101.83,2,NA,220,13
+"OY161","Men",69,"No","Yes","Control",25.26,102,"Plaque",NA,5.3,84,"Mollerussa","Former/Current Smoker",140,89,117,46,87,7,"No","No",73.24,3,NA,156,27
+"OY369","Women",72,"Yes","Yes","Control",29.78,102,"Plaque",NA,5.8,93,"Mollerussa","No Smoker",114,76,127,77,152,2,"No","No",56.45,4,NA,254,12
+"OY516","Women",53,"Yes","No","Control",25.07,88,"Plaque",NA,5.5,94,"Mollerussa","No Smoker",138,101,145,44,155,2,"No","No",95.35,2,NA,228,36
+"OY533","Women",62,"No","Yes","Control",26.7,85,"Plaque",NA,6.3,102,"CRuti","Former/Current Smoker",144,78,135,60,114,3,"No","No",105.34,4,NA,201,23
+"OY201","Men",55,"No","Yes","Control",24.26,88,"Plaque",NA,5.2,78,"Mollerussa","Former/Current Smoker",119,77,128,47,149,2,"No","No",75.83,3,NA,222,12
+"OY291","Men",67,"No","Yes","Control",26.49,110,"Plaque",NA,4.9,89,"Mollerussa","Former/Current Smoker",120,70,149,65,128,4,"No","No",89.91,4,NA,223,14
+"OY473","Men",66,"Yes","Yes","Control",31.56,120,"Plaque",NA,5.2,120,"Clinic","No Smoker",108,69,114,41,121,NA,"No","No",54.8,4,NA,185,24
+"OY272","Men",60,"Yes","No","Control",20.6,95,"Plaque",NA,5.6,101,"Clinic","Former/Current Smoker",96,71,124,68,134,NA,"No","No",90.8,5,NA,227,21
+"OY065","Women",37,"No","No","Control",38.2,NA,"Plaque",NA,5.4,82,"CRuti","Former/Current Smoker",124,77,129,55,115,3,"No","No",128,1,NA,196,22
+"OY341","Men",62,"Yes","No","Control",30.69,108,"Plaque",NA,6.1,114,"Clinic","No Smoker",125,79,140,48,123,NA,"No","No",101,3,NA,199,25
+"OY495","Men",47,"No","No","Control",28.03,100,"Plaque",NA,5.8,99,"Mollerussa","No Smoker",128,81,135,64,138,3,"No","No",89.3,2,NA,229,21
+"OY107","Women",69,"Yes","Yes","Control",30.51,93.5,"Plaque",NA,5.6,100,"Clinic","No Smoker",140,80,143,55,98,NA,"No","No",69.2,4,NA,182,21
+"OY388","Men",55,"No","Yes","Control",27.38,95,"Plaque",NA,5.1,86,"Clinic","No Smoker",120,80,112,64,155,NA,"No","No",92.4,3,NA,241,15
+"OY535","Men",59,"Yes","Yes","Control",27.76,111,"Plaque",NA,5.1,104,"Mollerussa","Former/Current Smoker",138,88,229,57,143,4,"No","No",59.67,3,NA,246,32
+"OY344","Men",59,"No","No","Control",29.7,108,"Plaque",NA,5.8,80,"Mollerussa","Former/Current Smoker",139,83,166,41,108,1,"No","No",83.16,2,NA,182,11
+"OY478","Women",60,"Yes","Yes","Control",25.95,97,"Plaque",NA,6.1,108,"Mollerussa","Former/Current Smoker",129,83,204,60,152,5,"No","No",76.47,3,NA,253,18
+"OY199","Men",61,"No","No","Control",28.34,102,"Plaque",NA,5.6,94,"Clinic","No Smoker",122,76,143,55,171,NA,"No","No",84.8,3,NA,255,34
+"OY488","Men",47,"Yes","No","Control",30.47,102.5,"Plaque",NA,5.4,78,"CRuti","Former/Current Smoker",130,87,126,46,121,3,"No","No",75.71,2,NA,192,65
+"OY001","Women",77,"Yes","Yes","Control",33.78,98,"Plaque",NA,6,95,"Mollerussa","Former/Current Smoker",128,82,195,43,90,4,"No","No",64.85,4,NA,172,22
+"OY025","Men",62,"No","No","Control",27.78,103,"Plaque",NA,6,107,"Mollerussa","No Smoker",137,96,231,38,80,3,"No","No",68.55,2,NA,164,18
+"OY102-2","Men",56,"No","Yes","Control",35.06,110,"Plaque",NA,4.3,91,"Mollerussa","Former/Current Smoker",154,80,220,48,190,3,"No","No",124.85,2,NA,282,26
+"OY348","Men",50,"No","No","Control",27.45,104,"Plaque",NA,5.2,87,"Mollerussa","Former/Current Smoker",130,83,186,52,159,5,"No","No",92.88,2,NA,248,21
+"OY255","Women",53,"No","Yes","Control",24.84,91,"Plaque",NA,5.8,93,"Mollerussa","Former/Current Smoker",106,71,101,61,79,3,"No","No",106.62,2,NA,160,13
+"OY137-2","Women",78,"Yes","Yes","Control",32.05,112,"Plaque",NA,6.5,110,"Mollerussa","No Smoker",138,80,168,57,126,3,"No","No",56.21,2,NA,217,16
+"OY214","Women",53,"No","No","Control",23.05,74,"Plaque",NA,5.7,78,"Mollerussa","Former/Current Smoker",112,71,75,76,105,2,"No","No",60.07,3,NA,196,17
+"OY430","Men",62,"Yes","No","Control",32.12,108,"Plaque",NA,6,117,"Clinic","No Smoker",129,92,182,36,124,NA,"No","No",76.7,3,NA,196,25
+"OY171","Men",50,"No","Yes","Control",30.61,113,"Plaque",NA,5.8,102,"Mollerussa","Former/Current Smoker",132,86,247,45,129,2,"No","No",117.43,2,NA,233,39
+"OY133","Women",50,"Yes","Yes","Control",38.1,123,"Plaque",NA,5.9,90,"Mollerussa","Former/Current Smoker",146,87,333,64,218,5,"No","No",84.39,2,NA,293,15
+"OY496","Women",43,"No","No","Control",23.41,81,"No plaque",NA,5.3,91,"Mollerussa","Former/Current Smoker",102,60,45,37,109,3,"No","No",99.48,0,NA,155,6
+"OY464","Men",68,"Yes","No","Control",23.66,85,"No plaque",NA,5.1,96,"Mollerussa","Former/Current Smoker",125,72,58,50,111,6,"No","No",102,0,NA,173,15
+"OY238","Women",45,"No","No","Control",23.05,68,"No plaque",NA,5.1,92,"Mollerussa","Former/Current Smoker",109,69,46,72,109,6,"No","No",87.59,0,NA,190,12
+"OY527","Women",36,"No","No","Control",21.36,74,"No plaque",NA,5.2,88,"Mollerussa","No Smoker",99,66,39,79,107,NA,"No","No",81.16,0,NA,194,13
+"OY390","Women",33,"No","No","Control",20.08,74,"No plaque",NA,5.2,74,"Mollerussa","No Smoker",99,63,35,95,115,6,"No","No",91.81,0,NA,217,18
+"OY227","Women",41,"No","No","Control",21.94,75,"No plaque",NA,5,97,"Mollerussa","Former/Current Smoker",106,77,59,70,157,4,"No","No",81.39,0,NA,239,14
+"OY217","Women",72,"No","No","Control",24.61,107,"No plaque",NA,5,74,"Mollerussa","No Smoker",115,83,81,71,145,3,"No","No",90.96,0,NA,232,22
+"OY281","Women",62,"No","Yes","Control",26.84,95,"No plaque",NA,5.7,97,"Mollerussa","No Smoker",125,87,83,62,112,6,"No","No",59.61,0,NA,191,18
+"OY209","Women",48,"No","No","Control",21.38,80,"No plaque",NA,5.7,81,"Mollerussa","Former/Current Smoker",96,63,44,79,48,3,"No","No",89.31,0,NA,136,12
+"OY040","Women",62,"No","No","Control",25.97,100,"No plaque",NA,5.8,109,"Mollerussa","No Smoker",123,75,67,50,121,NA,"No","No",86.21,0,NA,184,27
+"OY174","Men",68,"No","No","Control",25.51,88,"No plaque",NA,5.1,82,"Mollerussa","No Smoker",112,61,64,66,114,3,"No","No",67.99,0,NA,193,97
+"OY342","Women",47,"No","No","Control",25.78,84,"No plaque",NA,5.5,90,"Mollerussa","Former/Current Smoker",117,78,48,75,77,2,"No","No",88.24,0,NA,162,9
+"OY178","Women",38,"No","No","Control",25.16,89,"No plaque",NA,5.6,88,"Mollerussa","No Smoker",110,65,46,46,99,2,"No","No",103.85,0,NA,154,11
+"OY504","Men",38,"No","No","Control",24.59,100,"No plaque",NA,5.7,96,"Mollerussa","Former/Current Smoker",123,84,81,36,169,2,"No","No",103.69,0,NA,221,98
+"OY385","Women",50,"No","No","Control",23.71,91,"No plaque",NA,4.7,89,"Mollerussa","No Smoker",128,79,61,84,122,1,"No","No",94.8,0,NA,218,20
+"OY530","Women",64,"No","No","Control",25.81,93,"No plaque",NA,5.7,90,"Mollerussa","No Smoker",134,82,52,59,98,3,"No","No",98.75,0,NA,167,21
+"OY424","Men",49,"No","No","Control",29.76,99,"No plaque",NA,4.9,88,"Mollerussa","Former/Current Smoker",121,67,78,50,86,5,"No","No",90.85,0,NA,152,15
+"OY144","Women",69,"No","Yes","Control",28.62,87,"No plaque",NA,5.3,82,"Mollerussa","No Smoker",138,72,67,86,141,5,"No","No",80.31,0,NA,240,14
+"OY330","Men",45,"No","No","Control",29.54,105,"No plaque",NA,5.6,99,"Mollerussa","No Smoker",138,89,57,74,109,5,"No","No",66.76,0,NA,194,14
+"OY316","Women",50,"No","No","Control",24.13,78,"No plaque",NA,5.9,89,"Mollerussa","Former/Current Smoker",134,87,57,70,126,2,"No","No",80.55,0,NA,207,10
+"OY525","Men",45,"No","Yes","Control",25.22,95,"No plaque",NA,5.8,94,"Mollerussa","No Smoker",117,86,104,71,128,1,"No","No",93.65,0,NA,220,19
+"OY069-2","Women",53,"No","Yes","Control",24.61,88,"No plaque",NA,5.8,81,"Mollerussa","Former/Current Smoker",122,79,91,75,199,5,"No","No",57.34,0,NA,292,16
+"OY206","Men",43,"No","No","Control",25,99,"No plaque",NA,5.3,99,"Mollerussa","No Smoker",92,59,46,63,74,5,"No","No",74.62,0,NA,146,16
+"OY112","Women",70,"No","No","Control",27.29,96,"No plaque",NA,5.6,87,"Mollerussa","No Smoker",128,63,78,65,98,5,"No","No",109.27,0,NA,179,12
+"OY326","Women",42,"No","No","Control",18.07,72,"No plaque",NA,5.7,97,"Mollerussa","Former/Current Smoker",150,88,55,64,92,2,"No","No",86.07,0,NA,167,11
+"OY509","Men",70,"Yes","No","Control",24.82,92,"No plaque",NA,5.6,92,"Mollerussa","Former/Current Smoker",124,76,58,56,105,2,"No","No",84.51,0,NA,173,13
+"OY193","Men",62,"No","No","Control",20.37,98,"No plaque",NA,5.2,90,"Mollerussa","No Smoker",123,69,75,65,126,7,"No","No",97.95,0,NA,206,22
+"OY140","Women",59,"No","Yes","Control",27.24,96,"No plaque",NA,5.7,85,"Mollerussa","Former/Current Smoker",165,86,73,78,118,3,"No","No",80.33,0,NA,211,58
+"OY409","Women",48,"No","Yes","Control",31.53,105,"No plaque",NA,5.6,89,"Mollerussa","Former/Current Smoker",131,74,86,78,140,1,"No","No",90.81,0,NA,235,25
+"OY479","Men",57,"No","No","Control",25.25,85,"No plaque",NA,5.7,95,"Mollerussa","No Smoker",135,87,88,42,128,3,"No","No",57.93,0,NA,188,26
+"OY116","Men",39,"Yes","No","Control",30.25,102,"No plaque",NA,4.9,99,"Mollerussa","No Smoker",109,70,69,56,128,1,"No","No",82.24,0,NA,198,29
+"OY294","Men",68,"No","No","Control",23.88,94,"No plaque",NA,5.9,84,"Mollerussa","No Smoker",144,78,89,53,113,3,"No","No",72.63,0,NA,184,13
+"OY371","Men",51,"No","No","Control",28.09,98,"No plaque",NA,5.6,92,"Mollerussa","No Smoker",121,80,88,54,104,2,"No","No",83.58,0,NA,176,48
+"OY349","Women",42,"No","No","Control",21.45,82,"No plaque",NA,5.5,84,"Mollerussa","Former/Current Smoker",97,60,82,53,118,4,"No","No",96.52,0,NA,187,25
+"OY086","Men",52,"Yes","No","Control",26.83,103,"No plaque",NA,5.1,77,"Mollerussa","Former/Current Smoker",123,86,95,67,109,1,"No","No",74.17,0,NA,195,20
+"OY287","Women",46,"No","No","Control",25.78,82,"No plaque",NA,4.7,79,"Mollerussa","No Smoker",96,65,65,45,76,2,"No","No",84.49,0,NA,134,4
+"OY018","Women",49,"Yes","Yes","Control",30.06,103,"No plaque",NA,5.8,89,"Mollerussa","Former/Current Smoker",123,83,123,62,99,2,"No","No",125.33,0,NA,186,19
+"OY356","Women",57,"Yes","No","Control",23.74,92,"No plaque",NA,5.3,95,"Mollerussa","No Smoker",128,76,95,73,106,3,"No","No",143.61,0,NA,198,17
+"OY185","Women",74,"Yes","Yes","Control",26.44,96,"No plaque",NA,5.9,98,"Mollerussa","No Smoker",120,70,89,74,111,5,"No","No",62.81,0,NA,203,12
+"OY323","Men",81,"No","No","Control",26.78,109,"No plaque",NA,5.6,99,"Mollerussa","No Smoker",121,70,81,65,135,4,"No","No",86.51,0,NA,216,21
+"OY343","Men",28,"No","No","Control",24.52,94,"No plaque",NA,5.1,97,"Mollerussa","No Smoker",117,68,74,61,104,0,"No","No",71.41,0,NA,180,14
+"OY100","Men",42,"No","No","Control",29.39,101,"No plaque",NA,4.8,80,"Mollerussa","No Smoker",120,76,105,41,122,3,"No","No",81.94,0,NA,184,23
+"OY032","Men",44,"No","No","Control",22.72,90,"No plaque",NA,4.9,84,"Mollerussa","No Smoker",119,66,95,51,174,4,"No","No",78.45,0,NA,244,31
+"OY162","Men",36,"No","No","Control",26.04,96,"No plaque",NA,5.7,72,"Mollerussa","Former/Current Smoker",135,73,88,52,113,2,"No","No",87.57,0,NA,183,24
+"OY322","Women",65,"No","Yes","Control",18.82,70,"No plaque",NA,5.2,86,"Mollerussa","No Smoker",134,73,100,73,120,4,"No","No",106.45,0,NA,213,18
+"OY211","Men",79,"Yes","No","Control",25.5,107,"No plaque",NA,5.1,79,"Mollerussa","No Smoker",130,83,105,38,112,8,"No","No",61.97,0,NA,171,14
+"OY483","Women",44,"No","No","Control",21.77,64,"No plaque",NA,5.4,77,"Mollerussa","No Smoker",125,85,75,73,97,6,"No","No",76.81,0,NA,185,31
+"OY143","Men",45,"No","No","Control",27.44,103,"No plaque",NA,5.5,92,"Mollerussa","No Smoker",113,77,79,50,77,2,"No","No",86.79,0,NA,143,7
+"OY351","Men",41,"No","No","Control",23.89,83,"No plaque",NA,5.6,99,"Mollerussa","Former/Current Smoker",116,71,92,57,100,1,"No","No",102.1,0,NA,175,54
+"OY433","Women",67,"Yes","Yes","Control",32.47,102,"No plaque",NA,5.7,109,"Mollerussa","No Smoker",135,89,110,56,125,4,"No","No",83.47,0,NA,203,28
+"OY128","Women",46,"No","Yes","Control",24.92,95,"No plaque",NA,5.9,97,"Mollerussa","Former/Current Smoker",119,74,113,56,105,2,"No","No",88.62,0,NA,184,15
+"OY021","Women",39,"No","No","Control",20.2,70,"No plaque",NA,5.4,82,"Mollerussa","Former/Current Smoker",90,69,74,70,90,2,"No","No",73.46,0,NA,175,12
+"OY460","Women",37,"No","No","Control",27.53,88,"No plaque",NA,5,71,"Mollerussa","No Smoker",107,72,87,42,84,5,"No","No",112.49,0,NA,143,5
+"OY321","Men",37,"No","Yes","Control",29.67,108,"No plaque",NA,5,89,"Mollerussa","No Smoker",127,88,101,61,132,2,"No","No",88.14,0,NA,213,36
+"OY252","Women",50,"No","No","Control",26.72,102,"No plaque",NA,5.6,96,"Mollerussa","Former/Current Smoker",117,87,103,53,205,4,"No","No",88.57,0,NA,279,15
+"OY320","Men",69,"No","No","Control",24.54,96,"No plaque",NA,5,90,"Mollerussa","No Smoker",131,75,95,48,116,5,"No","No",82.61,0,NA,183,17
+"OY359","Men",53,"No","No","Control",30.46,119,"No plaque",NA,5.8,107,"Mollerussa","Former/Current Smoker",145,85,97,47,111,5,"No","No",65.86,0,NA,177,37
+"OY103","Men",65,"Yes","Yes","Control",25.51,95,"No plaque",NA,5.4,88,"Mollerussa","No Smoker",122,77,78,54,77,3,"No","No",78.61,0,NA,147,27
+"OY422","Men",64,"No","Yes","Control",32.39,114,"No plaque",NA,5.5,98,"Mollerussa","No Smoker",166,112,197,38,164,4,"No","No",44.7,0,NA,241,12
+"OY115","Men",57,"No","No","Control",26.37,85,"No plaque",NA,5.7,89,"Mollerussa","No Smoker",121,87,99,57,119,4,"No","No",84.8,0,NA,196,18
+"OY506","Women",69,"Yes","No","Control",29.76,102,"No plaque",NA,5.8,101,"Mollerussa","No Smoker",129,75,117,54,106,0,"No","No",125.22,0,NA,183,22
+"OY044","Men",75,"No","No","Control",24.22,96,"No plaque",NA,5.9,96,"Mollerussa","Former/Current Smoker",145,77,89,60,97,5,"No","No",72.01,0,NA,175,15
+"OY284","Men",49,"No","No","Control",25.91,98,"No plaque",NA,5.5,97,"Mollerussa","Former/Current Smoker",113,74,108,44,158,1,"No","No",70.41,0,NA,224,29
+"OY033","Women",39,"No","Yes","Control",20.48,86,"No plaque",NA,4.9,79,"Mollerussa","Former/Current Smoker",105,78,121,53,183,4,"No","No",77.61,0,NA,260,6
+"OY196","Men",44,"No","No","Control",24.07,NA,"No plaque",NA,5,75,"Mollerussa","No Smoker",121,69,102,43,88,2,"No","No",97.92,0,NA,151,14
+"OY135","Men",58,"No","Yes","Control",21.85,95,"No plaque",NA,5.6,84,"Mollerussa","No Smoker",114,87,101,58,107,3,"No","No",88.95,0,NA,185,18
+"OY462","Women",76,"No","No","Control",25.97,90,"No plaque",NA,5.5,93,"Mollerussa","No Smoker",174,86,104,74,85,4,"No","No",NA,0,NA,180,12
+"OY271","Men",47,"No","No","Control",26.09,93,"No plaque",NA,5.4,95,"Mollerussa","No Smoker",122,77,105,88,154,4,"No","No",109.94,0,NA,263,31
+"OY204","Women",53,"No","No","Control",29.09,87,"No plaque",NA,5.7,94,"Mollerussa","Former/Current Smoker",109,70,104,58,112,6,"No","No",NA,0,NA,191,11
+"OY157","Women",40,"No","Yes","Control",25.86,93,"No plaque",NA,4.9,87,"Mollerussa","Former/Current Smoker",111,67,117,45,121,2,"No","No",104.66,0,NA,189,28
+"OY004","Women",65,"No","No","Control",25.22,90,"No plaque",NA,5.9,85,"Mollerussa","No Smoker",151,88,101,67,137,4,"No","No",59.76,0,NA,224,9
+"OY382","Men",61,"No","No","Control",26.32,104,"No plaque",NA,5.2,93,"Mollerussa","Former/Current Smoker",120,73,107,48,140,5,"No","No",79.63,0,NA,209,20
+"OY219","Men",44,"No","No","Control",24.91,82,"No plaque",NA,5.9,90,"Mollerussa","Former/Current Smoker",123,77,121,46,153,2,"No","No",90.51,0,NA,223,18
+"OY037","Men",48,"No","No","Control",24.54,95,"No plaque",NA,4.9,94,"Mollerussa","Former/Current Smoker",125,85,121,41,168,1,"No","No",75.39,0,NA,233,32
+"OY387","Men",43,"No","No","Control",23.51,90,"No plaque",NA,5.4,94,"Mollerussa","No Smoker",108,71,136,57,170,3,"No","No",75.43,0,NA,254,44
+"OY443","Men",54,"No","Yes","Control",31.14,111,"No plaque",NA,5.8,92,"Mollerussa","No Smoker",118,70,139,52,140,4,"No","No",83.63,0,NA,220,35
+"OY278","Men",44,"No","Yes","Control",23.45,90,"No plaque",NA,5.2,80,"Mollerussa","No Smoker",113,72,153,61,168,6,"No","No",89.37,0,NA,260,26
+"OY131","Men",52,"No","No","Control",29.05,103,"No plaque",NA,5,103,"Mollerussa","Former/Current Smoker",127,89,131,52,175,2,"No","No",84.28,0,NA,253,27
+"OY191","Women",58,"No","No","Control",27.63,82,"No plaque",NA,4.9,91,"Mollerussa","No Smoker",119,72,131,58,137,5,"No","No",97.06,0,NA,221,30
+"OY459","Men",38,"No","No","Control",28.41,103,"No plaque",NA,5.2,99,"Mollerussa","No Smoker",119,81,141,40,106,3,"No","No",96.92,0,NA,174,49
+"OY297","Women",49,"No","No","Control",25.35,98,"No plaque",NA,5.9,95,"Mollerussa","No Smoker",104,68,138,59,115,4,"No","No",66.55,0,NA,202,9
+"OY175","Men",37,"No","No","Control",29.94,120,"No plaque",NA,5,92,"Mollerussa","Former/Current Smoker",124,64,124,44,129,2,"No","No",96.18,0,NA,198,55
+"OY180","Women",75,"No","No","Control",28.31,98,"No plaque",NA,5.5,96,"Mollerussa","No Smoker",110,71,151,45,113,2,"No","No",82.94,0,NA,188,18
+"OY380","Men",60,"Yes","Yes","Control",28.37,107,"No plaque",NA,5.9,106,"Mollerussa","Former/Current Smoker",122,81,130,50,148,3,"No","No",67.57,0,NA,224,29
+"OY453","Men",37,"No","No","Control",27.04,91,"No plaque",NA,5.6,95,"Mollerussa","No Smoker",114,71,169,44,91,NA,"No","No",82.18,0,NA,169,25
+"OY132","Men",68,"No","No","Control",32.04,110,"No plaque",NA,5.5,86,"Mollerussa","No Smoker",132,73,131,41,128,2,"No","No",96.13,0,NA,195,15
+"OY467","Women",41,"No","No","Control",37.8,102,"No plaque",NA,5.3,80,"Mollerussa","No Smoker",108,71,137,53,116,6,"No","No",112.33,0,NA,196,27
+"OY492","Women",45,"No","Yes","Control",21.23,78,"No plaque",NA,5.6,82,"Mollerussa","Former/Current Smoker",105,70,109,56,209,4,"No","No",82.3,0,NA,287,12
+"OY264","Women",52,"No","No","Control",26.22,106,"No plaque",NA,5.9,105,"Mollerussa","No Smoker",127,75,137,53,147,8,"No","No",95.72,0,NA,227,16
+"OY318","Women",68,"No","Yes","Control",25,95,"No plaque",NA,5.8,69,"Mollerussa","No Smoker",99,65,161,80,181,5,"No","No",NA,0,NA,293,8
+"OY101","Men",46,"No","No","Control",23.39,87,"No plaque",NA,5.5,84,"Mollerussa","Former/Current Smoker",109,74,158,71,160,1,"No","No",79.53,0,NA,263,22
+"OY501","Women",55,"Yes","No","Control",30.48,115,"No plaque",NA,5.7,87,"Mollerussa","No Smoker",136,95,165,50,142,6,"No","No",80.23,0,NA,225,21
+"OY109","Women",42,"No","Yes","Control",25.86,102,"No plaque",NA,5.9,82,"Mollerussa","Former/Current Smoker",127,99,143,59,179,4,"No","No",83.46,0,NA,267,8
+"OY296","Men",62,"No","No","Control",25.86,95,"No plaque",NA,5.7,94,"Mollerussa","No Smoker",154,102,158,59,126,2,"No","No",69.28,0,NA,217,25
+"OY505","Men",58,"No","No","Control",27.34,107,"No plaque",NA,5.9,109,"Mollerussa","Former/Current Smoker",146,86,156,54,108,2,"No","No",84.5,0,NA,193,18
+"OY120","Men",61,"Yes","No","Control",43.34,141,"No plaque",NA,5.4,105,"Mollerussa","Former/Current Smoker",123,87,199,54,90,3,"No","No",90.41,0,NA,184,22
+"OY526","Women",56,"No","Yes","Control",24.73,97,"No plaque",NA,4.8,85,"Mollerussa","No Smoker",123,85,186,53,139,4,"No","No",73.14,0,NA,229,37
+"OY339","Men",59,"No","Yes","Control",24.57,95,"No plaque",NA,5.6,106,"Mollerussa","Former/Current Smoker",139,87,134,62,163,4,"No","No",92.26,0,NA,252,31
+"OY257","Women",56,"No","No","Control",34.48,108,"No plaque",NA,5.8,79,"Mollerussa","No Smoker",111,64,154,72,111,2,"No","No",76.4,0,NA,214,12
+"OY513","Men",42,"No","No","Control",32.28,109,"No plaque",NA,5.5,82,"Mollerussa","Former/Current Smoker",125,81,207,58,143,2,"No","No",79.2,0,NA,242,20
+"OY360","Women",60,"No","No","Control",25.82,101,"No plaque",NA,5.4,90,"Mollerussa","No Smoker",125,79,167,77,160,2,"No","No",57.89,0,NA,270,14
+"OY063","Women",51,"No","Yes","Control",24.77,95,"No plaque",NA,5.4,85,"Mollerussa","No Smoker",109,75,183,57,147,3,"No","No",91.22,0,NA,241,10
+"OY399","Men",39,"No","No","Control",26.7,93,"No plaque",NA,5.5,94,"Mollerussa","Former/Current Smoker",107,75,172,55,146,2,"No","No",93.94,0,NA,235,25
+"OY512","Women",40,"No","No","Control",39.54,115,"No plaque",NA,5.8,81,"Mollerussa","Former/Current Smoker",120,90,171,39,130,1,"No","No",65.15,0,NA,203,13
+"OY083","Men",41,"No","No","Control",24.76,98,"No plaque",NA,5.7,88,"Mollerussa","Former/Current Smoker",121,86,200,46,130,3,"No","No",83.31,0,NA,216,31
+"OY426","Women",73,"No","No","Control",28.84,104,"No plaque",NA,5.3,82,"Mollerussa","No Smoker",120,73,220,41,132,4,"No","No",87.79,0,NA,217,20
+"OY498","Men",46,"No","Yes","Control",25.46,96,"No plaque",NA,5.3,78,"Mollerussa","Former/Current Smoker",119,73,231,44,104,6,"No","No",67.78,0,NA,194,28
+"OY419","Women",44,"No","Yes","Control",29.71,100,"No plaque",NA,5.4,102,"Mollerussa","Former/Current Smoker",135,85,241,52,178,3,"No","No",82.67,0,NA,278,17
+"OY290","Men",47,"No","Yes","Control",24.44,95,"No plaque",NA,5.4,85,"Mollerussa","Former/Current Smoker",138,88,350,42,131,2,"No","No",99.31,0,NA,191,25
+"OY008","Men",50,"No","Yes","Control",27.69,99,"No plaque",NA,5.9,90,"Mollerussa","No Smoker",123,80,289,31,127,0,"No","No",123.43,0,NA,208,21
