@@ -7,6 +7,8 @@ library(knitr)
 library(viridis)
 doParallel::registerDoParallel(6)
 
+dir.create("Results")
+
 dir_path <- "/home/maria/paper_placa/"
 
 ####### Lipidomics data preparation #######
